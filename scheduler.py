@@ -99,20 +99,6 @@ def do_practice():
     # for counting how many items done so far
     i = 0
 
-    ## practice the items currently learning
-    #for key, val in learning.items():
-    #    # ask for how well the user did this time
-    #    print(key)
-    #    print("goal = ", val["goal"])
-    #    print("past = ", val["current"])
-    #    val["current"] = int(input("current: "))
-    #    i += 1
-    #    print(i, " items done so far.\n")
-
-    #    # write to file
-    #    val["history"].append((time.time(), val["current"]))
-    #    write_log(new, learning, already_learned)
-
     # practice new items
     for key, val in new.items():
         # ask for goal and how well the user did this time
@@ -123,6 +109,20 @@ def do_practice():
         write_log(new, learning, already_learned)
         i += 1
         print(i, " items done so far.\n")
+
+    # practice the items currently learning
+    for key, val in learning.items():
+        # ask for how well the user did this time
+        print(key)
+        print("goal = ", val["goal"])
+        print("past = ", val["current"])
+        val["current"] = int(input("current: "))
+        i += 1
+        print(i, " items done so far.\n")
+
+        # write to file
+        val["history"].append((time.time(), val["current"]))
+        write_log(new, learning, already_learned)
 
     # practice the items already learned
     for key, val in already_learned.items():
@@ -137,7 +137,6 @@ def do_practice():
         val["history"].append((time.time(), val["current"]))
         write_log(new, learning, already_learned)
 
-
 if __name__ == "__main__":
-    read_syllabus()
+    #read_syllabus()
     do_practice()

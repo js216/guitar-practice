@@ -1,344 +1,3748 @@
 {
-    "chords.ini:methods:1min changes:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:1min changes:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:1min changes:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:1min changes:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:1min changes:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:1min changes:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:1min changes:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:1min changes:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:1min changes:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:1min changes:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:1min changes:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:1min changes:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:1min changes:chords:simple changes:A to E": {},
-    "chords.ini:methods:1min changes:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:1min changes:chords:simple changes:Am to E": {},
-    "chords.ini:methods:1min changes:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C to A": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C to Am": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C to G": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C to G7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:D to A": {},
-    "chords.ini:methods:1min changes:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:D to E": {},
-    "chords.ini:methods:1min changes:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:1min changes:chords:simple changes:E to B7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:Em to D": {},
-    "chords.ini:methods:1min changes:chords:simple changes:F to Am": {},
-    "chords.ini:methods:1min changes:chords:simple changes:F to C": {},
-    "chords.ini:methods:1min changes:chords:simple changes:F to D": {},
-    "chords.ini:methods:1min changes:chords:simple changes:F to E": {},
-    "chords.ini:methods:1min changes:chords:simple changes:F to G": {},
-    "chords.ini:methods:1min changes:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:1min changes:chords:simple changes:G to D": {},
-    "chords.ini:methods:1min changes:chords:simple changes:G to E": {},
-    "chords.ini:methods:1min changes:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:1min changes:chords:simple changes:big G to D": {},
-    "chords.ini:methods:1min changes:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:1min changes:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:1min changes:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:1min changes:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A to E": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Am to E": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:B7 to A7(1)": {
-        "current": 66,
-        "goal": 92,
+    "chords.ini:methods:1min changes:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 80,
+        "goal": 60,
         "history": [
             [
-                1553394762.0167654,
-                66
+                1553910381.6985674,
+                80
             ]
         ]
     },
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to A": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to Am": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to G": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to G7": {
-        "current": 66,
-        "goal": 92,
+    "chords.ini:methods:1min changes:chords:progressions:AAAA DDAA EDAE": {
+        "current": 80,
+        "goal": 60,
         "history": [
             [
-                1553394277.9482017,
-                66
+                1554432484.3149006,
+                80
             ]
         ]
     },
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C7 to G7": {
+    "chords.ini:methods:1min changes:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1553994385.8138652,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:progressions:DDDD GGDD AGDA": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1554081386.9556868,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:progressions:EEEE AAEE BAEB": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1555549794.56596,
+                52
+            ],
+            [
+                1557450644.4310904,
+                49
+            ],
+            [
+                1557620426.3608556,
+                60
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:progressions:G to D to C to D": {
         "current": 63,
-        "goal": 92,
+        "goal": 60,
         "history": [
             [
-                1553394513.3413959,
+                1553909130.1312017,
+                55
+            ],
+            [
+                1558058247.5227852,
+                54
+            ],
+            [
+                1558231180.2979481,
+                54
+            ],
+            [
+                1558232215.3459928,
                 63
             ]
         ]
     },
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D to A": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D to E": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E to B7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Em to D": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to Am": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to C": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to D": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to E": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to G": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G to D": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G to E": {
-        "current": 66,
-        "goal": 92,
+    "chords.ini:methods:1min changes:chords:progressions:GGGG CCGG DCGD": {
+        "current": 80,
+        "goal": 60,
         "history": [
             [
-                1553394010.2698972,
+                1554169747.2708545,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:A to Dm": {
+        "current": 69,
+        "goal": 60,
+        "history": [
+            [
+                1553735802.1585174,
+                59
+            ],
+            [
+                1559176782.2930033,
+                69
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:A to E": {
+        "current": 71,
+        "goal": 60,
+        "history": [
+            [
+                1555177820.7603023,
+                71
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:A7(1) to D7": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1554351499.806156,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:A7(1) to E7": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1554352715.2742493,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:A7(2) to D7": {
+        "current": 67,
+        "goal": 60,
+        "history": [
+            [
+                1553455586.2370484,
+                58
+            ],
+            [
+                1558968163.5005524,
+                67
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:A7(2) to E7": {
+        "current": 67,
+        "goal": 60,
+        "history": [
+            [
+                1553736117.2551186,
+                58
+            ],
+            [
+                1558968434.5067515,
+                67
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:Am to Dm": {
+        "current": 64,
+        "goal": 60,
+        "history": [
+            [
+                1553562634.8779771,
+                56
+            ],
+            [
+                1558058320.0011735,
+                64
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:Am to E": {
+        "current": 88,
+        "goal": 60,
+        "history": [
+            [
+                1553909042.8771863,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:B7 to A7(1)": {
+        "current": 67,
+        "goal": 60,
+        "history": [
+            [
+                1553642635.2510803,
+                67
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:B7 to A7(2)": {
+        "current": 68,
+        "goal": 60,
+        "history": [
+            [
+                1554857669.6657357,
+                56
+            ],
+            [
+                1558058388.2271621,
+                46
+            ],
+            [
+                1558231110.645237,
+                54
+            ],
+            [
+                1558232285.0842586,
+                68
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C to A": {
+        "current": 63,
+        "goal": 60,
+        "history": [
+            [
+                1553994215.7749379,
+                63
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C to Am": {
+        "current": 89,
+        "goal": 60,
+        "history": [
+            [
+                1554084748.845072,
+                89
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C to G": {
+        "current": 65,
+        "goal": 60,
+        "history": [
+            [
+                1553644142.297906,
+                65
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C to G7": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1554526476.070112,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 68,
+        "goal": 60,
+        "history": [
+            [
+                1554526024.6713028,
+                68
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1555177590.6626081,
+                60
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:C7 to G7": {
+        "current": 69,
+        "goal": 60,
+        "history": [
+            [
+                1555285753.0749083,
+                58
+            ],
+            [
+                1558968602.379669,
+                69
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:D to A": {
+        "current": 64,
+        "goal": 60,
+        "history": [
+            [
+                1554169670.0845857,
+                64
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:D to A(m-b)": {
+        "current": 70,
+        "goal": 60,
+        "history": [
+            [
+                1554257813.4886014,
+                70
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:D to E": {
+        "current": 67,
+        "goal": 60,
+        "history": [
+            [
+                1554591034.597361,
+                67
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:D7 to C7": {
+        "current": 68,
+        "goal": 60,
+        "history": [
+            [
+                1555177970.7261362,
+                47
+            ],
+            [
+                1556845339.9734426,
+                51
+            ],
+            [
+                1557362891.9588475,
+                68
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:E - Esus4": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1553643814.0793657,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:E to B7": {
+        "current": 73,
+        "goal": 60,
+        "history": [
+            [
+                1553909399.577966,
+                32
+            ],
+            [
+                1556486310.5452623,
+                45
+            ],
+            [
+                1556668953.2181568,
+                73
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:E7 to B7": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1553993257.0450482,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:E7 to D7": {
+        "current": 77,
+        "goal": 60,
+        "history": [
+            [
+                1553455242.7940185,
+                47
+            ],
+            [
+                1556845407.6465824,
+                77
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:Em to D": {
+        "current": 79,
+        "goal": 60,
+        "history": [
+            [
+                1554526415.355368,
+                79
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:F to Am": {
+        "current": 66,
+        "goal": 60,
+        "history": [
+            [
+                1555549254.3578653,
+                52
+            ],
+            [
+                1557450712.351678,
+                56
+            ],
+            [
+                1558058453.6701477,
                 66
             ]
         ]
     },
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:big G to D": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:fingerstyle:T12 321:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A to E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Am to E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to A": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to Am": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to G": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to G7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D to A": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D to E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E to B7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Em to D": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to Am": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to C": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to D": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to G": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G to D": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G to E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:big G to D": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:fingerstyle:T121 3212:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A to E": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Am to E": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to A": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to Am": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to G": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to G7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D to A": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D to E": {},
+    "chords.ini:methods:1min changes:chords:simple changes:F to C": {
+        "current": 61,
+        "goal": 60,
+        "history": [
+            [
+                1553740244.0329983,
+                54
+            ],
+            [
+                1557621700.6380055,
+                61
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:F to D": {
+        "current": 63,
+        "goal": 60,
+        "history": [
+            [
+                1553456412.0223064,
+                45
+            ],
+            [
+                1556669020.4463549,
+                51
+            ],
+            [
+                1557362961.8890877,
+                53
+            ],
+            [
+                1557621632.0055823,
+                63
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:F to E": {
+        "current": 61,
+        "goal": 60,
+        "history": [
+            [
+                1553909526.8798661,
+                61
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:F to G": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1553563142.6238322,
+                52
+            ],
+            [
+                1557450780.0576496,
+                60
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 75,
+        "goal": 60,
+        "history": [
+            [
+                1553822044.5809233,
+                58
+            ],
+            [
+                1558968673.543406,
+                75
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 66,
+        "goal": 60,
+        "history": [
+            [
+                1554525479.887787,
+                66
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:G to A(m-b)": {
+        "current": 69,
+        "goal": 60,
+        "history": [
+            [
+                1555716461.8012192,
+                69
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:G to D": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1555548977.0992863,
+                57
+            ],
+            [
+                1558232494.531256,
+                60
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:G to E": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1554525409.3355968,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:G7 to D7": {
+        "current": 67,
+        "goal": 60,
+        "history": [
+            [
+                1553739217.803141,
+                50
+            ],
+            [
+                1557362645.7686293,
+                67
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:big G to D": {
+        "current": 61,
+        "goal": 60,
+        "history": [
+            [
+                1554432560.3725958,
+                47
+            ],
+            [
+                1556845476.935112,
+                61
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:simple changes:folk G to C": {
+        "current": 65,
+        "goal": 60,
+        "history": [
+            [
+                1554592175.8154612,
+                40
+            ],
+            [
+                1556486793.2449844,
+                65
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 80,
+        "goal": 60,
+        "history": [
+            [
+                1554433031.3607256,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 67,
+        "goal": 60,
+        "history": [
+            [
+                1553909981.2836719,
+                36
+            ],
+            [
+                1556486568.0114918,
+                44
+            ],
+            [
+                1556668591.5037084,
+                67
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555285309.9548647,
+                69
+            ],
+            [
+                1556845555.669722,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:AAAA DDAA EDAE": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555286066.1296465,
+                69
+            ],
+            [
+                1556845626.579906,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554858282.0459087,
+                69
+            ],
+            [
+                1556845699.1854928,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:DDDD GGDD AGDA": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553999482.0749142,
+                66
+            ],
+            [
+                1556669100.5299485,
+                80
+            ],
+            [
+                1557797963.3890939,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:EEEE AAEE BAEB": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554084599.2310076,
+                63
+            ],
+            [
+                1556487557.727379,
+                76
+            ],
+            [
+                1557363082.8788006,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:G to D to C to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554858425.355747,
+                69
+            ],
+            [
+                1556845768.281834,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:GGGG CCGG DCGD": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554592398.5561054,
+                66
+            ],
+            [
+                1556669168.7355342,
+                80
+            ],
+            [
+                1557798034.8648999,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A to Dm": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554432783.26462,
+                69
+            ],
+            [
+                1556845837.337102,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554352872.378067,
+                66
+            ],
+            [
+                1556669239.770749,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(1) to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553642831.894059,
+                66
+            ],
+            [
+                1556669310.1615438,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(1) to E7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555179160.6865127,
+                69
+            ],
+            [
+                1556845907.9249127,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(2) to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553456094.1981997,
+                66
+            ],
+            [
+                1556758186.91224,
+                69
+            ],
+            [
+                1556845973.4160955,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:A7(2) to E7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553908876.641839,
+                66
+            ],
+            [
+                1556758258.7295146,
+                69
+            ],
+            [
+                1556846041.4766893,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Am to Dm": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555550011.5430894,
+                72
+            ],
+            [
+                1557269446.106462,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Am to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555286274.8555336,
+                69
+            ],
+            [
+                1556846112.1038039,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:B7 to A7(1)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553394762.0167654,
+                66
+            ],
+            [
+                1556758330.295446,
+                69
+            ],
+            [
+                1556846179.2535493,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:B7 to A7(2)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554954149.6943688,
+                63
+            ],
+            [
+                1556487626.1474276,
+                76
+            ],
+            [
+                1557363154.1811495,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to A": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554170525.652965,
+                69
+            ],
+            [
+                1556846248.7821538,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to Am": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553562531.35604,
+                69
+            ],
+            [
+                1556846313.1177492,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554694032.5668733,
+                69
+            ],
+            [
+                1556846380.0309796,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C to G7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553394277.9482017,
+                66
+            ],
+            [
+                1556758403.3547497,
+                72
+            ],
+            [
+                1557269516.8557742,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553821535.7916913,
+                66
+            ],
+            [
+                1556758473.7902422,
+                69
+            ],
+            [
+                1557186888.2022862,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554693662.0728188,
+                63
+            ],
+            [
+                1556487700.2416573,
+                76
+            ],
+            [
+                1557363225.3633244,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:C7 to G7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553394513.3413959,
+                63
+            ],
+            [
+                1556487329.449174,
+                76
+            ],
+            [
+                1557363293.158457,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D to A": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553740001.684879,
+                72
+            ],
+            [
+                1557269644.4912903,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554433456.7006962,
+                69
+            ],
+            [
+                1557186955.2606964,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553739312.9638655,
+                69
+            ],
+            [
+                1557187021.0371504,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:D7 to C7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554857240.3727937,
+                63
+            ],
+            [
+                1556667692.9764001,
+                63
+            ],
+            [
+                1556668359.3958166,
+                66
+            ],
+            [
+                1556758539.8574848,
+                69
+            ],
+            [
+                1557187089.8098447,
+                80
+            ],
+            [
+                1557972238.358268,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E - Esus4": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553739144.445981,
+                66
+            ],
+            [
+                1556758615.4512424,
+                76
+            ],
+            [
+                1557363369.100407,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E to B7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554693886.8460054,
+                69
+            ],
+            [
+                1557187176.5060515,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E7 to B7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553456522.623315,
+                66
+            ],
+            [
+                1556758684.9521396,
+                72
+            ],
+            [
+                1557269713.505847,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:E7 to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554351780.8289745,
+                61
+            ],
+            [
+                1556487404.700516,
+                72
+            ],
+            [
+                1557269784.6179914,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Em to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554591705.4952238,
+                69
+            ],
+            [
+                1557187246.6111171,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to Am": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554591945.88116,
+                63
+            ],
+            [
+                1556667778.7304022,
+                60
+            ],
+            [
+                1556668290.4241102,
+                63
+            ],
+            [
+                1556668446.9430778,
+                66
+            ],
+            [
+                1556758756.117928,
+                69
+            ],
+            [
+                1557187314.0858173,
+                80
+            ],
+            [
+                1557972308.6493127,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to C": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553563779.1767223,
+                66
+            ],
+            [
+                1556758821.6617453,
+                69
+            ],
+            [
+                1557187380.9215212,
+                76
+            ],
+            [
+                1557363436.0679083,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553909676.2784257,
+                60
+            ],
+            [
+                1556486880.9715433,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553822725.004425,
+                66
+            ],
+            [
+                1556758888.663316,
+                69
+            ],
+            [
+                1557187518.3109896,
+                76
+            ],
+            [
+                1557363511.7771447,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:F to G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554692845.3933322,
+                63
+            ],
+            [
+                1556667851.1591008,
+                66
+            ],
+            [
+                1556758954.6426454,
+                69
+            ],
+            [
+                1557187590.7015433,
+                76
+            ],
+            [
+                1557363580.1222513,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554692305.1732914,
+                69
+            ],
+            [
+                1557187663.291342,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553910468.7807777,
+                60
+            ],
+            [
+                1556486969.4524796,
+                76
+            ],
+            [
+                1557363650.9126277,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555178783.9131799,
+                0
+            ],
+            [
+                1555717101.6855278,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555286206.4192271,
+                69
+            ],
+            [
+                1557187730.122539,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553394010.2698972,
+                66
+            ],
+            [
+                1556759028.8283062,
+                80
+            ],
+            [
+                1557972376.0076544,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:G7 to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553562233.8014498,
+                66
+            ],
+            [
+                1556759096.4457614,
+                80
+            ],
+            [
+                1557972446.1230543,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:big G to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553456800.817269,
+                66
+            ],
+            [
+                1556759165.790248,
+                80
+            ],
+            [
+                1557972514.7409842,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:folk G to C": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553643028.2134566,
+                69
+            ],
+            [
+                1557187796.0979211,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554258522.6748044,
+                69
+            ],
+            [
+                1557187870.2227511,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 99,
+        "goal": 88,
+        "history": [
+            [
+                1554525730.509045,
+                66
+            ],
+            [
+                1556759237.993039,
+                80
+            ],
+            [
+                1557972612.100053,
+                99
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555032687.1928241,
+                0
+            ],
+            [
+                1555717173.2080553,
+                72
+            ],
+            [
+                1557269852.2615,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:AAAA DDAA EDAE": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554953339.2316153,
+                0
+            ],
+            [
+                1555717250.8824124,
+                72
+            ],
+            [
+                1557269921.0386884,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554432950.6254983,
+                0
+            ],
+            [
+                1555717323.023461,
+                72
+            ],
+            [
+                1557269989.3815908,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:DDDD GGDD AGDA": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554433363.9899952,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:EEEE AAEE BAEB": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554170893.7082727,
+                0
+            ],
+            [
+                1555717393.7915552,
+                72
+            ],
+            [
+                1557270059.0051463,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:G to D to C to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554084064.1219087,
+                0
+            ],
+            [
+                1555717463.3701873,
+                72
+            ],
+            [
+                1557270130.018034,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:GGGG CCGG DCGD": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553994067.358116,
+                0
+            ],
+            [
+                1555717539.3008018,
+                66
+            ],
+            [
+                1556759312.6666887,
+                84
+            ],
+            [
+                1558661010.1986337,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A to Dm": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554953408.1586254,
+                0
+            ],
+            [
+                1555717612.101766,
+                72
+            ],
+            [
+                1557270196.7493687,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554256122.4295425,
+                0
+            ],
+            [
+                1555717679.5699914,
+                72
+            ],
+            [
+                1557270262.7157676,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(1) to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554258349.9810479,
+                0
+            ],
+            [
+                1555717750.5514448,
+                72
+            ],
+            [
+                1557270330.0073044,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(1) to E7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554693147.8153093,
+                0
+            ],
+            [
+                1555717819.224121,
+                72
+            ],
+            [
+                1557270396.8599937,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(2) to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553821969.9054646,
+                0
+            ],
+            [
+                1555717886.6579647,
+                72
+            ],
+            [
+                1557270465.938848,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:A7(2) to E7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554170819.4276206,
+                0
+            ],
+            [
+                1555717973.49958,
+                72
+            ],
+            [
+                1557270564.8536282,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Am to Dm": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554083612.729107,
+                0
+            ],
+            [
+                1555816888.312038,
+                63
+            ],
+            [
+                1556667923.1633909,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Am to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554256813.9065552,
+                0
+            ],
+            [
+                1555816962.9121232,
+                63
+            ],
+            [
+                1556667994.72861,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:B7 to A7(1)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554952879.3139515,
+                0
+            ],
+            [
+                1555817042.0259235,
+                66
+            ],
+            [
+                1556759387.2503748,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:B7 to A7(2)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554591779.0566618,
+                0
+            ],
+            [
+                1555817114.894191,
+                66
+            ],
+            [
+                1556759454.4332654,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to A": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553909597.6663024,
+                0
+            ],
+            [
+                1555817185.41252,
+                66
+            ],
+            [
+                1556759526.1423411,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to Am": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554433612.324365,
+                0
+            ],
+            [
+                1555817257.7135375,
+                66
+            ],
+            [
+                1556845062.2577386,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554953268.531299,
+                0
+            ],
+            [
+                1555817336.1890457,
+                69
+            ],
+            [
+                1557187940.116349,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C to G7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555178930.313669,
+                0
+            ],
+            [
+                1555817408.3110201,
+                69
+            ],
+            [
+                1557188006.2791398,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554525090.3313546,
+                0
+            ],
+            [
+                1555817488.869647,
+                69
+            ],
+            [
+                1557188074.137932,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553822123.7065432,
+                0
+            ],
+            [
+                1555817569.8700333,
+                72
+            ],
+            [
+                1557270632.7396019,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:C7 to G7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554953481.761649,
+                0
+            ],
+            [
+                1555817680.538837,
+                72
+            ],
+            [
+                1557270698.3899157,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D to A": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554352579.9497762,
+                0
+            ],
+            [
+                1555817763.29407,
+                76
+            ],
+            [
+                1557363737.3727963,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555548601.999972,
+                50
+            ],
+            [
+                1556486492.2226312,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554258278.6114745,
+                0
+            ],
+            [
+                1555817834.9472418,
+                76
+            ],
+            [
+                1557363804.137609,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:D7 to C7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554779115.5888147,
+                0
+            ],
+            [
+                1555817904.8510668,
+                76
+            ],
+            [
+                1557363873.4644105,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E - Esus4": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553994367.46414,
+                0
+            ],
+            [
+                1555817993.7729368,
+                80
+            ],
+            [
+                1557972684.0290198,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E to B7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554083757.1731157,
+                0
+            ],
+            [
+                1555818066.8367846,
+                80
+            ],
+            [
+                1557972753.967401,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E7 to B7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554592694.2622283,
+                0
+            ],
+            [
+                1555818138.1034017,
+                80
+            ],
+            [
+                1557972820.3169153,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:E7 to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554777683.156893,
+                0
+            ],
+            [
+                1555818219.490495,
+                84
+            ],
+            [
+                1558661215.047449,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Em to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554592557.552223,
+                0
+            ],
+            [
+                1555818289.6408896,
+                84
+            ],
+            [
+                1558661282.7182477,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to Am": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553456229.4855301,
+                0
+            ],
+            [
+                1555818361.1268237,
+                76
+            ],
+            [
+                1557363942.3817909,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to C": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554084282.2821984,
+                0
+            ],
+            [
+                1555977747.5239704,
+                63
+            ],
+            [
+                1556668067.4619122,
+                80
+            ],
+            [
+                1557972885.9168358,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555286342.252155,
+                0
+            ],
+            [
+                1555977891.1581864,
+                60
+            ],
+            [
+                1556487044.3777378,
+                76
+            ],
+            [
+                1557364010.8720922,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555549650.8690875,
+                66
+            ],
+            [
+                1556486389.6511662,
+                76
+            ],
+            [
+                1557364080.0859954,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:F to G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553999577.0398097,
+                0
+            ],
+            [
+                1555977962.0459554,
+                60
+            ],
+            [
+                1556487112.793112,
+                76
+            ],
+            [
+                1557450156.2708654,
+                80
+            ],
+            [
+                1557972952.4277427,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554525801.279158,
+                0
+            ],
+            [
+                1555978042.236141,
+                66
+            ],
+            [
+                1556845131.6266077,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554778478.9768403,
+                0
+            ],
+            [
+                1555978116.0550005,
+                66
+            ],
+            [
+                1556845199.9595604,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554953624.3228674,
+                0
+            ],
+            [
+                1555978186.9232152,
+                72
+            ],
+            [
+                1557270767.1189764,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554592626.0004098,
+                0
+            ],
+            [
+                1555978256.9467385,
+                76
+            ],
+            [
+                1557450223.3384254,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554857744.0725849,
+                0
+            ],
+            [
+                1555978326.7307773,
+                80
+            ],
+            [
+                1557973018.7201025,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:G7 to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553644221.0374365,
+                0
+            ],
+            [
+                1555978393.9156165,
+                80
+            ],
+            [
+                1557973089.2359447,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:big G to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553822465.785928,
+                0
+            ],
+            [
+                1555978464.4366488,
+                80
+            ],
+            [
+                1557973158.0107224,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:folk G to C": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554778898.975933,
+                0
+            ],
+            [
+                1555978551.0997612,
+                80
+            ],
+            [
+                1557973234.8842022,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554778335.7959616,
+                0
+            ],
+            [
+                1555978623.348966,
+                80
+            ],
+            [
+                1557973304.9124398,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553908978.0663002,
+                0
+            ],
+            [
+                1556070201.8706021,
+                72
+            ],
+            [
+                1557362500.7379148,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554693217.6500921,
+                0
+            ],
+            [
+                1556070277.9017544,
+                84
+            ],
+            [
+                1558661350.1360035,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:AAAA DDAA EDAE": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555549496.9487414,
+                66
+            ],
+            [
+                1556845267.6392493,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555285900.6390676,
+                0
+            ],
+            [
+                1556070350.5613008,
+                84
+            ],
+            [
+                1558661427.2685392,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:DDDD GGDD AGDA": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555548678.1198163,
+                54
+            ],
+            [
+                1556486646.6341558,
+                80
+            ],
+            [
+                1557973373.4160206,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:EEEE AAEE BAEB": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554170672.429479,
+                0
+            ],
+            [
+                1556070424.1465025,
+                84
+            ],
+            [
+                1558661500.9073195,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:G to D to C to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554525263.7972765,
+                0
+            ],
+            [
+                1556070540.143187,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:GGGG CCGG DCGD": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555549095.5879107,
+                60
+            ],
+            [
+                1556487185.2552328,
+                80
+            ],
+            [
+                1557973446.619523,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A to Dm": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553644445.8347056,
+                60
+            ],
+            [
+                1556487257.0286083,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554858350.6901648,
+                0
+            ],
+            [
+                1556070607.4085233,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(1) to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553822210.1741297,
+                0
+            ],
+            [
+                1556070882.982475,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(1) to E7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555032830.2428517,
+                0
+            ],
+            [
+                1556070956.6016033,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(2) to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554954395.9258156,
+                0
+            ],
+            [
+                1556071021.6182575,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:A7(2) to E7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553992456.6678252,
+                0
+            ],
+            [
+                1556071100.2824984,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Am to Dm": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554433024.9562745,
+                0
+            ],
+            [
+                1556071167.8794956,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Am to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555179006.940098,
+                0
+            ],
+            [
+                1556071237.7009544,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:B7 to A7(1)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553993089.5245302,
+                0
+            ],
+            [
+                1556071303.5145643,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:B7 to A7(2)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554084139.2348166,
+                0
+            ],
+            [
+                1556071368.6496046,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to A": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555032755.723311,
+                0
+            ],
+            [
+                1556071434.289771,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to Am": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554084514.9165773,
+                0
+            ],
+            [
+                1556071517.15352,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553992921.3863986,
+                0
+            ],
+            [
+                1556071590.4425719,
+                84
+            ],
+            [
+                1558967674.963607,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C to G7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554256882.458532,
+                0
+            ],
+            [
+                1556071655.630638,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553456701.829682,
+                0
+            ],
+            [
+                1556071722.9647794,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553736036.3580534,
+                0
+            ],
+            [
+                1556071792.8166227,
+                80
+            ],
+            [
+                1557973520.908031,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:C7 to G7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554591196.5890627,
+                0
+            ],
+            [
+                1556153930.1028352,
+                80
+            ],
+            [
+                1557973587.7749996,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D to A": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554351180.8013291,
+                0
+            ],
+            [
+                1556154021.7134085,
+                84
+            ],
+            [
+                1558967742.5156503,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553643896.0825932,
+                0
+            ],
+            [
+                1556154095.345347,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554351297.064952,
+                0
+            ],
+            [
+                1556154185.6490586,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:D7 to C7": {
-        "current": 0,
+        "current": 88,
         "goal": 88,
         "history": [
             [
                 1553393316.4209743,
                 0
+            ],
+            [
+                1556247025.907028,
+                88
             ]
         ]
     },
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E to B7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Em to D": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to Am": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to C": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to D": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to E": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to G": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G to D": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G to E": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:big G to D": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:fingerstyle:T123 2123:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:strumming:#16:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:A to E": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:Am to E": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C to A": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C to Am": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C to G": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C to G7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:D to A": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:D to E": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:E to B7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:Em to D": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:F to Am": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:F to C": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:F to D": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:F to E": {},
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E - Esus4": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555286136.8755198,
+                0
+            ],
+            [
+                1556414408.172142,
+                76
+            ],
+            [
+                1557450299.3527532,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E to B7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554777928.5810208,
+                0
+            ],
+            [
+                1556414476.8469005,
+                80
+            ],
+            [
+                1558057973.562472,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E7 to B7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554433104.3896143,
+                0
+            ],
+            [
+                1556414546.4747677,
+                84
+            ],
+            [
+                1558967809.3667047,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:E7 to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554858045.7057056,
+                0
+            ],
+            [
+                1556414616.6779733,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Em to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554857599.0120642,
+                0
+            ],
+            [
+                1556414690.5184405,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to Am": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555178631.186869,
+                0
+            ],
+            [
+                1556414767.3198006,
+                76
+            ],
+            [
+                1557450368.5062735,
+                84
+            ],
+            [
+                1558967882.194319,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to C": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554169741.0773022,
+                0
+            ],
+            [
+                1556414835.6554027,
+                76
+            ],
+            [
+                1557450434.9426386,
+                80
+            ],
+            [
+                1558058041.1182518,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553562156.6908765,
+                0
+            ],
+            [
+                1556414914.784534,
+                76
+            ],
+            [
+                1557450501.7112844,
+                84
+            ],
+            [
+                1558967949.4318933,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555033113.6217072,
+                0
+            ],
+            [
+                1556414981.5144784,
+                76
+            ],
+            [
+                1557450570.9757607,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:F to G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553822640.2235649,
+                0
+            ],
+            [
+                1556415056.9423895,
+                72
+            ],
+            [
+                1557362576.5337217,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554525019.9548376,
+                0
+            ],
+            [
+                1556415127.8628454,
+                80
+            ],
+            [
+                1558058109.027649,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554524730.9023,
+                0
+            ],
+            [
+                1556415198.637445,
+                80
+            ],
+            [
+                1558058176.2234375,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G to A(m-b)": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554433685.998637,
+                0
+            ],
+            [
+                1556415266.858869,
+                84
+            ],
+            [
+                1558968015.2948925,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554258131.984274,
+                0
+            ],
+            [
+                1556415337.6182353,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G to E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554778721.7320168,
+                0
+            ],
+            [
+                1556415449.2421217,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:G7 to D7": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554083689.6408906,
+                0
+            ],
+            [
+                1556415518.3667727,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:big G to D": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553642724.071463,
+                0
+            ],
+            [
+                1556415587.7929852,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:folk G to C": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1553457007.532085,
+                0
+            ],
+            [
+                1556415654.677504,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1554592861.0442698,
+                0
+            ],
+            [
+                1556415728.910887,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1555716835.4065242,
+                63
+            ],
+            [
+                1556668153.4513838,
+                84
+            ],
+            [
+                1558968089.8410022,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553822558.6663992,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:AAAA DDAA EDAE": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554779045.9576283,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032610.0436146,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:DDDD GGDD AGDA": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553561956.8208954,
+                88
+            ],
+            [
+                1556668670.046703,
+                96
+            ],
+            [
+                1557188148.5663133,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:EEEE AAEE BAEB": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170444.0570555,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:G to D to C to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553739624.7737489,
+                108
+            ],
+            [
+                1557621804.6228592,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:GGGG CCGG DCGD": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553455507.3165019,
+                0
+            ],
+            [
+                1556415819.415189,
+                96
+            ],
+            [
+                1557188215.4345412,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:A to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553999306.559104,
+                112
+            ],
+            [
+                1558058532.3268435,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:A to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553821807.1240447,
+                112
+            ],
+            [
+                1558058597.581603,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:A7(1) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554692768.0248628,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:A7(1) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553909232.4435103,
+                112
+            ],
+            [
+                1558058664.4906714,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:A7(2) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553993006.0003653,
+                116
+            ],
+            [
+                1558968748.6365008,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:A7(2) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285989.3684056,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:Am to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549185.869575,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:Am to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953026.6013832,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:B7 to A7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553908792.9164069,
+                108
+            ],
+            [
+                1557621872.6465712,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:B7 to A7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554521272.4153833,
+                104
+            ],
+            [
+                1557450855.966438,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553739468.926039,
+                116
+            ],
+            [
+                1558968823.9113266,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554692922.7672994,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555177849.9994571,
+                112
+            ],
+            [
+                1558058733.7963398,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032971.432097,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778823.8096547,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555179240.3101413,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:C7 to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857386.567251,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:D to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554258057.9234698,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:D to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554526099.6300619,
+                116
+            ],
+            [
+                1558968892.5292883,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:D to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285682.5944555,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:D7 to C7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643241.6079438,
+                104
+            ],
+            [
+                1557450923.548534,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:E - Esus4": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553994620.5129812,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:E to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170256.9918292,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:E7 to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693287.9361522,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:E7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554592106.8095713,
+                108
+            ],
+            [
+                1557621941.9232483,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:Em to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032453.1274903,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:F to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555177663.4592495,
+                104
+            ],
+            [
+                1557450992.6405776,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:F to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554777849.9186237,
+                92
+            ],
+            [
+                1556668740.5046809,
+                96
+            ],
+            [
+                1557188283.8497415,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:F to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553993439.3503833,
+                108
+            ],
+            [
+                1557796666.8507855,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:F to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554351389.9136882,
+                104
+            ],
+            [
+                1557451062.1763911,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#16:chords:simple changes:F to G": {
-        "current": 100,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553393027.4751737,
                 100
+            ],
+            [
+                1557362744.568804,
+                112
+            ],
+            [
+                1558058799.9998848,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#16:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:G to A(m-b)": {},
+    "chords.ini:methods:strumming:#16:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643493.8103018,
+                6
+            ],
+            [
+                1556486239.980844,
+                96
+            ],
+            [
+                1557188351.8851283,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554169968.794363,
+                112
+            ],
+            [
+                1558058866.3048623,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:G to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554954308.7634604,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#16:chords:simple changes:G to D": {
-        "current": 108,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553392938.1035228,
                 108
+            ],
+            [
+                1557796749.568298,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#16:chords:simple changes:G to E": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:big G to D": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:strumming:#16:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:strumming:#16:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:strumming:#16:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:strumming:#1:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:A to Dm": {},
+    "chords.ini:methods:strumming:#16:chords:simple changes:G to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563612.3489482,
+                116
+            ],
+            [
+                1558968959.8976007,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:G7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555716631.6748843,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:big G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554433185.4838269,
+                116
+            ],
+            [
+                1558969033.5282116,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:simple changes:folk G to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554083832.6360612,
+                112
+            ],
+            [
+                1558058935.1567936,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 80,
+        "goal": 80,
+        "history": [
+            [
+                1554351786.6437893,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 84,
+        "goal": 84,
+        "history": [
+            [
+                1553740171.256135,
+                84
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554084440.211445,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:AAAA DDAA EDAE": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170968.9709952,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553456005.8635023,
+                116
+            ],
+            [
+                1558969101.298787,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:DDDD GGDD AGDA": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553735954.905136,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:EEEE AAEE BAEB": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554351099.274434,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:G to D to C to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554526336.20889,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:GGGG CCGG DCGD": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554591852.3513958,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:A to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554954074.5308902,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#1:chords:simple changes:A to E": {
         "current": 120,
         "goal": 120,
@@ -349,17 +3753,116 @@
             ]
         ]
     },
-    "chords.ini:methods:strumming:#1:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:Am to E": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:C to A": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:C to Am": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:C to G": {},
+    "chords.ini:methods:strumming:#1:chords:simple changes:A7(1) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553456885.560837,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:A7(1) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554169822.2031848,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:A7(2) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554526173.2456377,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:A7(2) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553455665.621121,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:Am to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170748.226446,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:Am to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554692455.266418,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:B7 to A7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554084369.252493,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:B7 to A7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554692992.0354805,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:C to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553993342.241003,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:C to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554352659.7519972,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:C to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554084678.031349,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#1:chords:simple changes:C to G7": {
         "current": 120,
         "goal": 120,
@@ -370,14 +3873,86 @@
             ]
         ]
     },
-    "chords.ini:methods:strumming:#1:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:D to A": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:D to E": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:E - Esus4": {},
+    "chords.ini:methods:strumming:#1:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032121.9800107,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553823074.6121867,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:C7 to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553642927.1759033,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:D to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953851.6746233,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:D to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857460.1843202,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:D to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554257886.3356912,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:D7 to C7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857315.3144653,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:E - Esus4": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553822996.9737475,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#1:chords:simple changes:E to B7": {
         "current": 120,
         "goal": 120,
@@ -388,19 +3963,148 @@
             ]
         ]
     },
-    "chords.ini:methods:strumming:#1:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:Em to D": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:F to Am": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:F to C": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:F to D": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:F to E": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:F to G": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:G to D": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:G to E": {},
+    "chords.ini:methods:strumming:#1:chords:simple changes:E7 to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555548757.5291438,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:E7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554258423.0393622,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:Em to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032901.690583,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:F to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643979.6899698,
+                104
+            ],
+            [
+                1557451132.0581791,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:F to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554258209.3706815,
+                104
+            ],
+            [
+                1557451206.3753998,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:F to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170038.6524677,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:F to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554351655.7500098,
+                112
+            ],
+            [
+                1558059001.7869446,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:F to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553562958.5284743,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554779190.7212963,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555178705.7185547,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:G to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553823228.260927,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554525950.0941088,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:G to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553562712.2032373,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#1:chords:simple changes:G7 to D7": {
         "current": 120,
         "goal": 120,
@@ -411,261 +4115,2022 @@
             ]
         ]
     },
-    "chords.ini:methods:strumming:#1:chords:simple changes:big G to D": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:strumming:#1:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:strumming:#1:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:strumming:#1:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:strumming:#4:chords:progressions:folk G to C/G": {},
+    "chords.ini:methods:strumming:#1:chords:simple changes:big G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549329.9895508,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:folk G to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554257738.9271584,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 80,
+        "goal": 80,
+        "history": [
+            [
+                1554352118.3887749,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563337.6648839,
+                96
+            ],
+            [
+                1557188424.739077,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555548523.8392358,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:AAAA DDAA EDAE": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553739774.5148559,
+                108
+            ],
+            [
+                1557796820.0408742,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553735879.7668705,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:DDDD GGDD AGDA": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553994291.283372,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:EEEE AAEE BAEB": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553644299.8553226,
+                112
+            ],
+            [
+                1558059070.1267753,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:G to D to C to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563532.5269952,
+                116
+            ],
+            [
+                1558969168.6371276,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:GGGG CCGG DCGD": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555286498.0756302,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#4:chords:simple changes:A to Dm": {
-        "current": 116,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553393705.8869226,
                 116
+            ],
+            [
+                1558969303.0781958,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#4:chords:simple changes:A to E": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:Am to E": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:C to A": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:C to Am": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:C to G": {},
+    "chords.ini:methods:strumming:#4:chords:simple changes:A to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693376.1191545,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:A7(1) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553739854.6530712,
+                116
+            ],
+            [
+                1558969372.0858164,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:A7(1) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285540.3990145,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:A7(2) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285383.3182383,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:A7(2) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555716552.7781374,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:Am to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032382.9185014,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:Am to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554256733.9649518,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:B7 to A7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554525641.3932908,
+                116
+            ],
+            [
+                1558969440.8519835,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:B7 to A7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857973.740197,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:C to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553910211.4781284,
+                116
+            ],
+            [
+                1558969507.5118792,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:C to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554432695.6977901,
+                116
+            ],
+            [
+                1558969574.8556528,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:C to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643316.692633,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#4:chords:simple changes:C to G7": {
-        "current": 77,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553392673.82439,
                 77
+            ],
+            [
+                1556486724.5709367,
+                104
+            ],
+            [
+                1557451281.3374398,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#4:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:C7 to Fmaj7(2)": {},
+    "chords.ini:methods:strumming:#4:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553910375.2047215,
+                108
+            ],
+            [
+                1557796889.8632061,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554256981.212043,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#4:chords:simple changes:C7 to G7": {
-        "current": 88,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553393407.1415703,
                 88
+            ],
+            [
+                1556668813.484794,
+                104
+            ],
+            [
+                1557451349.9489868,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#4:chords:simple changes:D to A": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:D to E": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:E to B7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:Em to D": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:F to Am": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:F to C": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:F to D": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:F to E": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:F to G": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:G to D": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:G to E": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:big G to D": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:strumming:#4:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:strumming:#4:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:strumming:#4:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:strumming:#8:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:A to Dm": {},
+    "chords.ini:methods:strumming:#4:chords:simple changes:D to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549868.6508079,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:D to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555284951.6619537,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:D to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555031693.2501228,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:D7 to C7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553821622.8151896,
+                112
+            ],
+            [
+                1558059138.9668028,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:E - Esus4": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553821880.7398314,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:E to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032199.2378795,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:E7 to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563419.377623,
+                112
+            ],
+            [
+                1558059209.4616928,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:E7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553562793.067806,
+                112
+            ],
+            [
+                1558059292.5842216,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:Em to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553999207.45464,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:F to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554169521.9620879,
+                108
+            ],
+            [
+                1557796959.4180894,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:F to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857830.515936,
+                96
+            ],
+            [
+                1557188537.2598648,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:F to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554169370.7042613,
+                112
+            ],
+            [
+                1558231254.8569736,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:F to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778579.2263908,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:F to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555177736.6689231,
+                104
+            ],
+            [
+                1557451417.3299334,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554692118.805267,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953552.224696,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:G to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643124.624399,
+                112
+            ],
+            [
+                1558231322.2436867,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778408.9633844,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:G to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555717087.0935771,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:G7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555179597.5900066,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:big G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554433538.421886,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:simple changes:folk G to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857904.347082,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554081369.909772,
+                112
+            ],
+            [
+                1558231448.0178578,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 92,
+        "goal": 88,
+        "history": [
+            [
+                1553643406.9201376,
+                92
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555031984.285086,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:AAAA DDAA EDAE": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554592487.2238865,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693495.248851,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:DDDD GGDD AGDA": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778016.4055364,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:EEEE AAEE BAEB": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953694.7746606,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:G to D to C to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554351950.2247093,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:GGGG CCGG DCGD": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554432866.6552382,
+                108
+            ],
+            [
+                1557797028.3345644,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:A to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778969.8775601,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#8:chords:simple changes:A to E": {
-        "current": 108,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553392842.6186953,
                 108
+            ],
+            [
+                1557797097.1787508,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#8:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:Am to E": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C to A": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C to Am": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C to G": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C to G7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:D to A": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:D to E": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:E to B7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:Em to D": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:F to Am": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:F to C": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:F to D": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:F to E": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:F to G": {},
+    "chords.ini:methods:strumming:#8:chords:simple changes:A7(1) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553823150.190494,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:A7(1) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953115.5034225,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:A7(2) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553909833.8185265,
+                104
+            ],
+            [
+                1557451486.303415,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:A7(2) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554352793.5929544,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:Am to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554257666.9724987,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:Am to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554433265.317379,
+                116
+            ],
+            [
+                1558969641.7769313,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:B7 to A7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778184.3302913,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:B7 to A7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553455433.1764889,
+                108
+            ],
+            [
+                1557797166.6661377,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693564.2953424,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554692314.8633103,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778253.9042637,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553994544.5492036,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643584.4535358,
+                96
+            ],
+            [
+                1557188606.1422317,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554524872.835861,
+                116
+            ],
+            [
+                1558969711.4739985,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:C7 to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555178857.2992008,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:D to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554524650.3340595,
+                116
+            ],
+            [
+                1558969782.2884903,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:D to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563233.535111,
+                116
+            ],
+            [
+                1558969856.7201033,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:D to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554256199.30041,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:D7 to C7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032310.820688,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:E - Esus4": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554525879.6606154,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:E to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553735657.082488,
+                112
+            ],
+            [
+                1558231515.1799905,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:E7 to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554523801.1979039,
+                108
+            ],
+            [
+                1557797233.1256213,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:E7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285613.4684136,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:Em to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555179332.9891896,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:F to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170600.052881,
+                104
+            ],
+            [
+                1557620504.9525654,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:F to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553735729.1925611,
+                104
+            ],
+            [
+                1557620572.547104,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:F to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549569.7146966,
+                104
+            ],
+            [
+                1557620710.9317079,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:F to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553456607.3814697,
+                104
+            ],
+            [
+                1557620778.626396,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:F to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778652.7636876,
+                108
+            ],
+            [
+                1557797299.9556925,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#8:chords:simple changes:Fmaj7(1) to A(m-b)": {
-        "current": 104,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553394847.196902,
                 104
+            ],
+            [
+                1557620847.0296562,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#8:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:G to D": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:G to E": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:big G to D": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:strumming:#8:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:strumming:#8:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:strumming:#8:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:strumming:#9:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:A to E": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:Am to E": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C to A": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C to Am": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C to G": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C to G7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:C7 to G7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:D to A": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:D to E": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:E to B7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:Em to D": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:F to Am": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:F to C": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:F to D": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:F to E": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:F to G": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:G to A(m-b)": {},
+    "chords.ini:methods:strumming:#8:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554778114.266059,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:G to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554352183.6180673,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553740077.6615303,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:G to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554352238.5742877,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:G7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554524230.867798,
+                112
+            ],
+            [
+                1558231583.9754894,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:big G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554858504.4953105,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:simple changes:folk G to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553910288.1108277,
+                108
+            ],
+            [
+                1557797369.4471056,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 80,
+        "goal": 80,
+        "history": [
+            [
+                1554591126.0667977,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 80,
+        "goal": 80,
+        "history": [
+            [
+                1554432871.1001158,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554083990.1018836,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:AAAA DDAA EDAE": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553739699.5844862,
+                108
+            ],
+            [
+                1557797437.4357736,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554169893.1107163,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:DDDD GGDD AGDA": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553562347.7454617,
+                100
+            ],
+            [
+                1557362823.1755114,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:EEEE AAEE BAEB": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553455844.0290987,
+                84
+            ],
+            [
+                1556487482.5916228,
+                104
+            ],
+            [
+                1557620916.2958424,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:G to D to C to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553822291.1141834,
+                116
+            ],
+            [
+                1558969924.2332513,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:GGGG CCGG DCGD": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554083543.5656798,
+                112
+            ],
+            [
+                1558231654.2294388,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:A to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553993987.6837738,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:A to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555031525.009448,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:A7(1) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563688.0261514,
+                116
+            ],
+            [
+                1558969992.7928324,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:A7(1) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857529.8361793,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:A7(2) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553999397.4242108,
+                116
+            ],
+            [
+                1559176088.486658,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:A7(2) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285235.065239,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:Am to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554257593.672901,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:Am to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555179084.7303896,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:B7 to A7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554858191.3512633,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:B7 to A7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693736.6242175,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555179480.067789,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554084210.8136241,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953198.3135648,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553910135.216182,
+                116
+            ],
+            [
+                1559176161.1740596,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554169599.202968,
+                112
+            ],
+            [
+                1558231725.1245694,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553909756.1131468,
+                112
+            ],
+            [
+                1558231800.0886803,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:C7 to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554256051.4825156,
+                104
+            ],
+            [
+                1557620990.1673074,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:D to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693960.345072,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:D to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554954237.7005756,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:D to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554693806.7934196,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:D7 to C7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170111.2833462,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:E - Esus4": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953780.6256025,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:E to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554170182.1507463,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:E7 to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554523899.678818,
+                112
+            ],
+            [
+                1558231869.57239,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:E7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555548909.7520642,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:Em to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553455343.2283976,
+                108
+            ],
+            [
+                1557797503.2761436,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:F to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285457.3616626,
+                104
+            ],
+            [
+                1557621059.2174156,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:F to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553821731.2759712,
+                108
+            ],
+            [
+                1557797569.0994365,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:F to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554081608.2543895,
+                104
+            ],
+            [
+                1557621128.6700125,
+                112
+            ],
+            [
+                1558231937.3157732,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:F to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554526245.2084787,
+                116
+            ],
+            [
+                1559176227.6195343,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:F to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555178554.619341,
+                104
+            ],
+            [
+                1557621196.9885259,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553992825.8574526,
+                116
+            ],
+            [
+                1559176297.7009506,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553822814.256628,
+                112
+            ],
+            [
+                1558232004.7935467,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:G to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553993842.1697693,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#9:chords:simple changes:G to D": {
-        "current": 116,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553394983.379171,
                 116
+            ],
+            [
+                1559176376.2144873,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:#9:chords:simple changes:G to E": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:big G to D": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:strumming:#9:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:strumming:#9:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:strumming:#9:chords:song parts:F C E7 Am F C Dm E": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:A - Asus4 - A - Asus2": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:AAAA DDAA EDAE": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:C to G/B(1) to Amin": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:C to G/B(2) to Amin": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:D - Dsus4 - D - Dsus2": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:DDDD GGDD AGDA": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:EEEE AAEE BAEB": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:G to D to C to D": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:G to D/F# to Em": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:GGGG CCGG DCGD": {},
-    "chords.ini:methods:strumming:swing:chords:progressions:folk G to C/G": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:A to Dm": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:A to E": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:A7(1) to D7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:A7(1) to E7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:A7(2) to D7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:A7(2) to E7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:Am to Dm": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:Am to E": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:B7 to A7(1)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:B7 to A7(2)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:C to A": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:C to Am": {},
+    "chords.ini:methods:strumming:#9:chords:simple changes:G to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555177516.6265934,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:G7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549937.5575323,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:big G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549402.142347,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:simple changes:folk G to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285826.129218,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 88,
+        "goal": 80,
+        "history": [
+            [
+                1554525339.5124311,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 88,
+        "goal": 80,
+        "history": [
+            [
+                1554525187.4886923,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:A - Asus4 - A - Asus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553994143.4764342,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:AAAA DDAA EDAE": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554524946.8848135,
+                116
+            ],
+            [
+                1559176446.8107262,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:D - Dsus4 - D - Dsus2": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555033040.7810564,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:DDDD GGDD AGDA": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553910555.2878342,
+                116
+            ],
+            [
+                1559176513.4100006,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:EEEE AAEE BAEB": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554954004.619349,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:G to D to C to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554857161.7122407,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:GGGG CCGG DCGD": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554525558.8092115,
+                108
+            ],
+            [
+                1557797639.1526175,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:A to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553456312.827177,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:A to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554592315.9205368,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:A7(1) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553643672.3702686,
+                112
+            ],
+            [
+                1558232073.0946834,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:A7(1) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553563053.311481,
+                108
+            ],
+            [
+                1557797714.411046,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:A7(2) to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032053.5901399,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:A7(2) to E7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554433351.7873704,
+                116
+            ],
+            [
+                1559176581.5459995,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:Am to Dm": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553739543.7189353,
+                116
+            ],
+            [
+                1559176646.9570572,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:Am to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553994462.2862473,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:B7 to A7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554592766.134165,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:B7 to A7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553822386.6048503,
+                108
+            ],
+            [
+                1557797782.0766976,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:C to A": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555549724.0986278,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:C to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554858500.2149723,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:swing:chords:simple changes:C to G": {
-        "current": 108,
+        "current": 120,
         "goal": 120,
         "history": [
             [
                 1553394175.7524233,
                 108
+            ],
+            [
+                1557797854.5341883,
+                120
             ]
         ]
     },
-    "chords.ini:methods:strumming:swing:chords:simple changes:C to G7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:C7 to Fmaj7(1)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:C7 to Fmaj7(2)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:C7 to G7": {},
+    "chords.ini:methods:strumming:swing:chords:simple changes:C to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555032528.1915958,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:C7 to Fmaj7(1)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555285150.0694044,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:C7 to Fmaj7(2)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554777765.5569992,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:C7 to G7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554526565.287816,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:swing:chords:simple changes:D to A": {
         "current": 120,
         "goal": 120,
@@ -676,57 +6141,278 @@
             ]
         ]
     },
-    "chords.ini:methods:strumming:swing:chords:simple changes:D to A(m-b)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:D to E": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:D7 to C7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:E - Esus4": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:E to B7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:E7 to B7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:E7 to D7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:Em to D": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:F to Am": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:F to C": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:F to D": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:F to E": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:F to G": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:Fmaj7(1) to A(m-b)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:Fmaj7(2) to A(m-b)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:G to A(m-b)": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:G to D": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:G to E": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:G7 to D7": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:big G to D": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:folk G to C": {},
-    "chords.ini:methods:strumming:swing:chords:simple changes:folk G to C/G": {},
-    "chords.ini:methods:strumming:swing:chords:song parts:Am E7 G D F C Dm E": {},
-    "chords.ini:methods:strumming:swing:chords:song parts:F C E7 Am F C Dm E": {},
-    "power_chords.ini:string:5th:key:a": {},
-    "power_chords.ini:string:5th:key:a#": {},
-    "power_chords.ini:string:5th:key:b": {},
-    "power_chords.ini:string:5th:key:c": {},
-    "power_chords.ini:string:5th:key:c#": {},
-    "power_chords.ini:string:5th:key:d": {},
-    "power_chords.ini:string:5th:key:d#": {},
-    "power_chords.ini:string:5th:key:e": {},
-    "power_chords.ini:string:5th:key:f": {},
-    "power_chords.ini:string:5th:key:f#": {},
-    "power_chords.ini:string:5th:key:g": {},
-    "power_chords.ini:string:5th:key:g#": {},
-    "power_chords.ini:string:6th:key:a": {},
-    "power_chords.ini:string:6th:key:a#": {},
-    "power_chords.ini:string:6th:key:b": {},
-    "power_chords.ini:string:6th:key:c": {},
-    "power_chords.ini:string:6th:key:c#": {},
-    "power_chords.ini:string:6th:key:d": {},
-    "power_chords.ini:string:6th:key:d#": {},
-    "power_chords.ini:string:6th:key:e": {},
-    "power_chords.ini:string:6th:key:f": {},
-    "power_chords.ini:string:6th:key:f#": {},
-    "power_chords.ini:string:6th:key:g": {},
-    "power_chords.ini:string:6th:key:g#": {},
-    "scales.ini:type:pentatonic:pattern:ex 1": {},
-    "scales.ini:type:pentatonic:pattern:ex 2": {},
-    "scales.ini:type:pentatonic:pattern:ex 3": {},
-    "scales.ini:type:pentatonic:pattern:ex 4": {},
-    "scales.ini:type:pentatonic:pattern:up/down": {}
+    "chords.ini:methods:strumming:swing:chords:simple changes:D to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554592248.2329469,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:D to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553909311.0186796,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:D7 to C7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555031833.1658354,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:E - Esus4": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554352032.5293026,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:E to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555031763.8562288,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:E7 to B7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555548826.6651196,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:E7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553644065.1787224,
+                112
+            ],
+            [
+                1558232296.4518547,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:Em to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554352618.54059,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:F to Am": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554953934.061854,
+                96
+            ],
+            [
+                1557188688.6921177,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:F to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554257983.3016758,
+                104
+            ],
+            [
+                1557621264.613049,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:F to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554083916.339986,
+                104
+            ],
+            [
+                1557621340.4136727,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:F to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553455762.1697226,
+                88
+            ],
+            [
+                1556668882.4782646,
+                104
+            ],
+            [
+                1557621407.3151374,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:F to G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555716916.2724695,
+                96
+            ],
+            [
+                1557269374.4451854,
+                104
+            ],
+            [
+                1557621559.801192,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:Fmaj7(1) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553562437.6659617,
+                112
+            ],
+            [
+                1558232372.8260546,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:Fmaj7(2) to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554591624.5141087,
+                116
+            ],
+            [
+                1559176713.7535074,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:G to A(m-b)": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553993915.8383744,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554858118.4540524,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:G to E": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1555717019.4732778,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:G7 to D7": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1553562868.5452423,
+                112
+            ],
+            [
+                1558232444.43214,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:big G to D": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554433757.1010447,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:folk G to C": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1554592029.5348415,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:song parts:Am E7 G D F C Dm E": {
+        "current": 80,
+        "goal": 80,
+        "history": [
+            [
+                1554433761.4236622,
+                80
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:song parts:F C E7 Am F C Dm E": {
+        "current": 80,
+        "goal": 80,
+        "history": [
+            [
+                1555286424.0749433,
+                80
+            ]
+        ]
+    }
 }
