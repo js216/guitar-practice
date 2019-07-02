@@ -19,6 +19,50 @@
             ]
         ]
     },
+    "chords.ini:methods:1min changes:chords:progressions:C to G/B(1) to Amin": {
+        "current": 70,
+        "goal": 60,
+        "history": [
+            [
+                1560811954.5021615,
+                38
+            ],
+            [
+                1561077369.4143865,
+                52
+            ],
+            [
+                1561673513.8382537,
+                70
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:progressions:C to G/B(2) to Amin": {
+        "current": 59,
+        "goal": 60,
+        "history": [
+            [
+                1560733448.453699,
+                35
+            ],
+            [
+                1561077250.7766647,
+                52
+            ],
+            [
+                1561673585.2615843,
+                30
+            ],
+            [
+                1561773183.2150257,
+                43
+            ],
+            [
+                1562104326.7484334,
+                59
+            ]
+        ]
+    },
     "chords.ini:methods:1min changes:chords:progressions:D - Dsus4 - D - Dsus2": {
         "current": 80,
         "goal": 60,
@@ -79,6 +123,32 @@
             ]
         ]
     },
+    "chords.ini:methods:1min changes:chords:progressions:G to D/F# to Em": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1560733349.455068,
+                32
+            ],
+            [
+                1561077178.0980108,
+                55
+            ],
+            [
+                1561685052.9882832,
+                38
+            ],
+            [
+                1561773254.8611166,
+                56
+            ],
+            [
+                1562104409.1640177,
+                60
+            ]
+        ]
+    },
     "chords.ini:methods:1min changes:chords:progressions:GGGG CCGG DCGD": {
         "current": 80,
         "goal": 60,
@@ -86,6 +156,20 @@
             [
                 1554169747.2708545,
                 80
+            ]
+        ]
+    },
+    "chords.ini:methods:1min changes:chords:progressions:folk G to C/G": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1560733957.2195406,
+                56
+            ],
+            [
+                1561685101.98573,
+                60
             ]
         ]
     },
@@ -579,6 +663,20 @@
             ]
         ]
     },
+    "chords.ini:methods:1min changes:chords:simple changes:folk G to C/G": {
+        "current": 60,
+        "goal": 60,
+        "history": [
+            [
+                1560732947.5149524,
+                42
+            ],
+            [
+                1561590032.5642672,
+                60
+            ]
+        ]
+    },
     "chords.ini:methods:1min changes:chords:song parts:Am E7 G D F C Dm E": {
         "current": 80,
         "goal": 60,
@@ -631,6 +729,46 @@
             ],
             [
                 1556845626.579906,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:C to G/B(1) to Amin": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560556701.0678434,
+                0
+            ],
+            [
+                1561076901.0120485,
+                85
+            ],
+            [
+                1561773860.740454,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:C to G/B(2) to Amin": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1561076356.22781,
+                80
+            ],
+            [
+                1561674054.940344,
+                82
+            ],
+            [
+                1561773336.1392038,
+                84
+            ],
+            [
+                1562104516.0510495,
                 88
             ]
         ]
@@ -699,6 +837,28 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:G to D/F# to Em": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1561076272.8906653,
+                80
+            ],
+            [
+                1561674125.893286,
+                82
+            ],
+            [
+                1561773412.535957,
+                84
+            ],
+            [
+                1562104590.7237315,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T12 321:chords:progressions:GGGG CCGG DCGD": {
         "current": 88,
         "goal": 88,
@@ -713,6 +873,28 @@
             ],
             [
                 1557798034.8648999,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T12 321:chords:progressions:folk G to C/G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560733482.590356,
+                80
+            ],
+            [
+                1561684489.136045,
+                82
+            ],
+            [
+                1561773483.2878952,
+                84
+            ],
+            [
+                1562104662.80327,
                 88
             ]
         ]
@@ -1387,6 +1569,32 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T12 321:chords:simple changes:folk G to C/G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560734527.5806966,
+                76
+            ],
+            [
+                1561591320.2297795,
+                80
+            ],
+            [
+                1561684540.0873897,
+                82
+            ],
+            [
+                1561773492.0656273,
+                84
+            ],
+            [
+                1562104668.282701,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T12 321:chords:song parts:Am E7 G D F C Dm E": {
         "current": 88,
         "goal": 88,
@@ -1455,6 +1663,38 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:C to G/B(1) to Amin": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560557184.6616685,
+                0
+            ],
+            [
+                1561077013.5402548,
+                85
+            ],
+            [
+                1561773936.2005956,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:C to G/B(2) to Amin": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560733640.1075883,
+                80
+            ],
+            [
+                1561684648.8809898,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:D - Dsus4 - D - Dsus2": {
         "current": 88,
         "goal": 88,
@@ -1519,6 +1759,20 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:G to D/F# to Em": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1561076712.3451076,
+                86
+            ],
+            [
+                1561774076.02911,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:GGGG CCGG DCGD": {
         "current": 88,
         "goal": 88,
@@ -1537,6 +1791,20 @@
             ],
             [
                 1558661010.1986337,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:progressions:folk G to C/G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560733238.1704957,
+                80
+            ],
+            [
+                1561684733.7219155,
                 88
             ]
         ]
@@ -2255,6 +2523,20 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T121 3212:chords:simple changes:folk G to C/G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1561076541.528668,
+                84
+            ],
+            [
+                1561773786.4201546,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T121 3212:chords:song parts:Am E7 G D F C Dm E": {
         "current": 88,
         "goal": 88,
@@ -2319,6 +2601,34 @@
             ],
             [
                 1556845267.6392493,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:C to G/B(1) to Amin": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560733869.5439827,
+                80
+            ],
+            [
+                1561684808.7323322,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:C to G/B(2) to Amin": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1561075859.6269622,
+                80
+            ],
+            [
+                1561684881.6237798,
                 88
             ]
         ]
@@ -2391,6 +2701,16 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:G to D/F# to Em": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560812172.6874514,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:GGGG CCGG DCGD": {
         "current": 88,
         "goal": 88,
@@ -2405,6 +2725,20 @@
             ],
             [
                 1557973446.619523,
+                88
+            ]
+        ]
+    },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:progressions:folk G to C/G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1560734615.2732205,
+                80
+            ],
+            [
+                1561684981.064015,
                 88
             ]
         ]
@@ -3027,6 +3361,20 @@
             ]
         ]
     },
+    "chords.ini:methods:fingerstyle:T123 2123:chords:simple changes:folk G to C/G": {
+        "current": 88,
+        "goal": 88,
+        "history": [
+            [
+                1561075767.41674,
+                85
+            ],
+            [
+                1561774006.9620845,
+                88
+            ]
+        ]
+    },
     "chords.ini:methods:fingerstyle:T123 2123:chords:song parts:Am E7 G D F C Dm E": {
         "current": 88,
         "goal": 88,
@@ -3075,6 +3423,38 @@
         "history": [
             [
                 1554779045.9576283,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:C to G/B(1) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560812250.4336991,
+                112
+            ],
+            [
+                1561685190.75127,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:C to G/B(2) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560556784.1883337,
+                0
+            ],
+            [
+                1561077089.3305264,
+                112
+            ],
+            [
+                1561685262.660917,
                 120
             ]
         ]
@@ -3131,6 +3511,20 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#16:chords:progressions:G to D/F# to Em": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734696.1201818,
+                96
+            ],
+            [
+                1561590810.9332056,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#16:chords:progressions:GGGG CCGG DCGD": {
         "current": 120,
         "goal": 120,
@@ -3145,6 +3539,24 @@
             ],
             [
                 1557188215.4345412,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#16:chords:progressions:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560811871.4337616,
+                88
+            ],
+            [
+                1561590114.2964742,
+                108
+            ],
+            [
+                1561673692.4016676,
                 120
             ]
         ]
@@ -3639,6 +4051,24 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#16:chords:simple changes:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560733744.6462727,
+                80
+            ],
+            [
+                1561077448.3660016,
+                112
+            ],
+            [
+                1561685331.5338693,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#16:chords:song parts:Am E7 G D F C Dm E": {
         "current": 80,
         "goal": 80,
@@ -3675,6 +4105,34 @@
         "history": [
             [
                 1554170968.9709952,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:C to G/B(1) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1561076086.3125737,
+                102
+            ],
+            [
+                1561591236.3606348,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:C to G/B(2) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560556921.327754,
+                88
+            ],
+            [
+                1561590199.769835,
                 120
             ]
         ]
@@ -3723,12 +4181,36 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#1:chords:progressions:G to D/F# to Em": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560557094.3213518,
+                80
+            ],
+            [
+                1561077525.3085127,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#1:chords:progressions:GGGG CCGG DCGD": {
         "current": 120,
         "goal": 120,
         "history": [
             [
                 1554591852.3513958,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:progressions:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1561076801.4599757,
                 120
             ]
         ]
@@ -3744,12 +4226,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:A to E": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553394680.0485787,
                 120
+            ],
+            [
+                1561774486.7438474,
+                145
             ]
         ]
     },
@@ -3784,12 +4270,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:A7(2) to E7": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553455665.621121,
                 120
+            ],
+            [
+                1561774575.9935894,
+                145
             ]
         ]
     },
@@ -3864,12 +4354,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:C to G7": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553394597.865143,
                 120
+            ],
+            [
+                1561774414.3819473,
+                145
             ]
         ]
     },
@@ -3954,12 +4448,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:E to B7": {
-        "current": 120,
+        "current": 130,
         "goal": 120,
         "history": [
             [
                 1553393818.9660606,
                 120
+            ],
+            [
+                1561774169.259522,
+                130
             ]
         ]
     },
@@ -4106,12 +4604,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:G7 to D7": {
-        "current": 120,
+        "current": 130,
         "goal": 120,
         "history": [
             [
                 1553393902.8458672,
                 120
+            ],
+            [
+                1561774245.0466917,
+                130
             ]
         ]
     },
@@ -4131,6 +4633,20 @@
         "history": [
             [
                 1554257738.9271584,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#1:chords:simple changes:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560812081.0540323,
+                100
+            ],
+            [
+                1561590998.2759676,
                 120
             ]
         ]
@@ -4183,6 +4699,34 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#4:chords:progressions:C to G/B(1) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560557558.1900997,
+                80
+            ],
+            [
+                1561077642.8700383,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:C to G/B(2) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560811574.9949224,
+                100
+            ],
+            [
+                1561591075.327337,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#4:chords:progressions:D - Dsus4 - D - Dsus2": {
         "current": 120,
         "goal": 120,
@@ -4231,12 +4775,44 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#4:chords:progressions:G to D/F# to Em": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734199.341744,
+                88
+            ],
+            [
+                1561590293.3949413,
+                112
+            ],
+            [
+                1561685408.1567678,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#4:chords:progressions:GGGG CCGG DCGD": {
         "current": 120,
         "goal": 120,
         "history": [
             [
                 1555286498.0756302,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#4:chords:progressions:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560732865.790564,
+                92
+            ],
+            [
+                1561590740.8815663,
                 120
             ]
         ]
@@ -4703,6 +5279,20 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#4:chords:simple changes:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560812427.3594484,
+                112
+            ],
+            [
+                1561685484.061906,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#4:chords:song parts:Am E7 G D F C Dm E": {
         "current": 120,
         "goal": 120,
@@ -4747,6 +5337,38 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#8:chords:progressions:C to G/B(1) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734362.3281176,
+                88
+            ],
+            [
+                1561590364.7137764,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:C to G/B(2) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560557655.4733903,
+                80
+            ],
+            [
+                1561589804.1688354,
+                108
+            ],
+            [
+                1561673770.3374863,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#8:chords:progressions:D - Dsus4 - D - Dsus2": {
         "current": 120,
         "goal": 120,
@@ -4787,6 +5409,24 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#8:chords:progressions:G to D/F# to Em": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734122.7279994,
+                88
+            ],
+            [
+                1561590447.5767558,
+                112
+            ],
+            [
+                1561685560.1598694,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#8:chords:progressions:GGGG CCGG DCGD": {
         "current": 120,
         "goal": 120,
@@ -4797,6 +5437,16 @@
             ],
             [
                 1557797028.3345644,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#8:chords:progressions:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560557461.9985492,
                 120
             ]
         ]
@@ -5263,6 +5913,24 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#8:chords:simple changes:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560557416.1263976,
+                80
+            ],
+            [
+                1561589885.7033098,
+                108
+            ],
+            [
+                1561673832.535263,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#8:chords:song parts:Am E7 G D F C Dm E": {
         "current": 80,
         "goal": 80,
@@ -5303,6 +5971,38 @@
             ],
             [
                 1557797437.4357736,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:C to G/B(1) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734283.9491203,
+                88
+            ],
+            [
+                1561590524.6543064,
+                112
+            ],
+            [
+                1561685719.132651,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:C to G/B(2) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1561076172.7817159,
+                109
+            ],
+            [
+                1561673973.2553515,
                 120
             ]
         ]
@@ -5363,6 +6063,20 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#9:chords:progressions:G to D/F# to Em": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1561076616.8502054,
+                112
+            ],
+            [
+                1561773569.0243745,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#9:chords:progressions:GGGG CCGG DCGD": {
         "current": 120,
         "goal": 120,
@@ -5373,6 +6087,20 @@
             ],
             [
                 1558231654.2294388,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:#9:chords:progressions:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560812352.6339128,
+                112
+            ],
+            [
+                1561773640.0184782,
                 120
             ]
         ]
@@ -5835,6 +6563,20 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:#9:chords:simple changes:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734445.470112,
+                96
+            ],
+            [
+                1561590895.3169594,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:#9:chords:song parts:Am E7 G D F C Dm E": {
         "current": 88,
         "goal": 80,
@@ -5875,6 +6617,38 @@
             ],
             [
                 1559176446.8107262,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:C to G/B(1) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560557757.5808902,
+                80
+            ],
+            [
+                1561589958.58168,
+                108
+            ],
+            [
+                1561673901.7459836,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:C to G/B(2) to Amin": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560733069.4269104,
+                88
+            ],
+            [
+                1561590593.105629,
                 120
             ]
         ]
@@ -5923,6 +6697,20 @@
             ]
         ]
     },
+    "chords.ini:methods:strumming:swing:chords:progressions:G to D/F# to Em": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560811662.7449393,
+                100
+            ],
+            [
+                1561591157.0657327,
+                120
+            ]
+        ]
+    },
     "chords.ini:methods:strumming:swing:chords:progressions:GGGG CCGG DCGD": {
         "current": 120,
         "goal": 120,
@@ -5933,6 +6721,20 @@
             ],
             [
                 1557797639.1526175,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:progressions:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1560734035.7639654,
+                88
+            ],
+            [
+                1561590661.7762566,
                 120
             ]
         ]
@@ -6132,12 +6934,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:D to A": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553394429.7957585,
                 120
+            ],
+            [
+                1561774319.167957,
+                145
             ]
         ]
     },
@@ -6391,6 +7197,20 @@
         "history": [
             [
                 1554592029.5348415,
+                120
+            ]
+        ]
+    },
+    "chords.ini:methods:strumming:swing:chords:simple changes:folk G to C/G": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1561076458.6029317,
+                112
+            ],
+            [
+                1561773707.2401643,
                 120
             ]
         ]

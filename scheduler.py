@@ -79,7 +79,7 @@ def do_practice():
 
     # randomize new items
     sorted_new_keys = list(new.keys())
-    random.shuffle(sorted_new_keys)
+    #random.shuffle(sorted_new_keys)
     new = {key:new[key] for key in sorted_new_keys}
 
     # sort items currently learning by how far away from the goal they are
@@ -138,5 +138,5 @@ def do_practice():
         write_log(new, learning, already_learned)
 
 if __name__ == "__main__":
-    #read_syllabus()
+    read_syllabus()
     do_practice()
