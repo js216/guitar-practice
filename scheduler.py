@@ -99,8 +99,10 @@ def do_practice():
     # for counting how many items done so far
     i = 0
 
-    # practice new items
-    for key, val in new.items():
+    # practice ten new items
+    for j, (key, val) in enumerate(new.items()):
+        if j >= 10:
+            break
         # ask for goal and how well the user did this time
         print(key)
         val["goal"] = int(input("goal: "))
@@ -110,8 +112,10 @@ def do_practice():
         i += 1
         print(i, " items done so far.\n")
 
-    # practice the items currently learning
-    for key, val in learning.items():
+    # practice ten of the items currently learning
+    for j, (key, val) in enumerate(learning.items()):
+        if j >= 10:
+            break
         # ask for how well the user did this time
         print(key)
         print("goal = ", val["goal"])
@@ -124,11 +128,14 @@ def do_practice():
         val["history"].append((time.time(), val["current"]))
         write_log(new, learning, already_learned)
 
-    # practice the items already learned
-    for key, val in already_learned.items():
+    # practice five of the items already learned
+    for j, (key, val) in enumerate(already_learned.items()):
+        if j >= 5:
+            break
         # ask for how well the user did this time
         print(key)
         print("goal = ", val["goal"])
+        print("past = ", val["current"])
         val["current"] = int(input("current: "))
         i += 1
         print(i, " items done so far.\n")

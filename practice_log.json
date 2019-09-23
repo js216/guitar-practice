@@ -1,11 +1,15 @@
 {
     "chords.ini:methods:1min changes:chords:progressions:A - Asus4 - A - Asus2": {
-        "current": 80,
+        "current": 60,
         "goal": 60,
         "history": [
             [
                 1553910381.6985674,
                 80
+            ],
+            [
+                1564063330.2744718,
+                60
             ]
         ]
     },
@@ -15,6 +19,10 @@
         "history": [
             [
                 1554432484.3149006,
+                80
+            ],
+            [
+                1568643918.5450294,
                 80
             ]
         ]
@@ -38,7 +46,7 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:progressions:C to G/B(2) to Amin": {
-        "current": 59,
+        "current": 63,
         "goal": 60,
         "history": [
             [
@@ -60,6 +68,10 @@
             [
                 1562104326.7484334,
                 59
+            ],
+            [
+                1562107613.8313212,
+                63
             ]
         ]
     },
@@ -70,6 +82,10 @@
             [
                 1553994385.8138652,
                 80
+            ],
+            [
+                1564499996.9176185,
+                80
             ]
         ]
     },
@@ -79,6 +95,10 @@
         "history": [
             [
                 1554081386.9556868,
+                80
+            ],
+            [
+                1564585074.8552454,
                 80
             ]
         ]
@@ -156,6 +176,10 @@
             [
                 1554169747.2708545,
                 80
+            ],
+            [
+                1565184459.5440264,
+                80
             ]
         ]
     },
@@ -198,12 +222,16 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:A7(1) to D7": {
-        "current": 80,
+        "current": 100,
         "goal": 60,
         "history": [
             [
                 1554351499.806156,
                 80
+            ],
+            [
+                1568045680.8748703,
+                100
             ]
         ]
     },
@@ -213,6 +241,10 @@
         "history": [
             [
                 1554352715.2742493,
+                80
+            ],
+            [
+                1568590418.871279,
                 80
             ]
         ]
@@ -260,22 +292,30 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:Am to E": {
-        "current": 88,
+        "current": 100,
         "goal": 60,
         "history": [
             [
                 1553909042.8771863,
                 88
+            ],
+            [
+                1563886871.9524221,
+                100
             ]
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:B7 to A7(1)": {
-        "current": 67,
+        "current": 95,
         "goal": 60,
         "history": [
             [
                 1553642635.2510803,
                 67
+            ],
+            [
+                1562628262.1103268,
+                95
             ]
         ]
     },
@@ -302,32 +342,44 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:C to A": {
-        "current": 63,
+        "current": 70,
         "goal": 60,
         "history": [
             [
                 1553994215.7749379,
                 63
+            ],
+            [
+                1564416529.9945369,
+                70
             ]
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:C to Am": {
-        "current": 89,
+        "current": 80,
         "goal": 60,
         "history": [
             [
                 1554084748.845072,
                 89
+            ],
+            [
+                1565184374.9552658,
+                80
             ]
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:C to G": {
-        "current": 65,
+        "current": 70,
         "goal": 60,
         "history": [
             [
                 1553644142.297906,
                 65
+            ],
+            [
+                1563464090.7900295,
+                70
             ]
         ]
     },
@@ -376,22 +428,30 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:D to A": {
-        "current": 64,
+        "current": 77,
         "goal": 60,
         "history": [
             [
                 1554169670.0845857,
                 64
+            ],
+            [
+                1565184455.3601863,
+                77
             ]
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:D to A(m-b)": {
-        "current": 70,
+        "current": 90,
         "goal": 60,
         "history": [
             [
                 1554257813.4886014,
                 70
+            ],
+            [
+                1567696328.6231499,
+                90
             ]
         ]
     },
@@ -430,6 +490,10 @@
             [
                 1553643814.0793657,
                 80
+            ],
+            [
+                1563464021.1893737,
+                80
             ]
         ]
     },
@@ -452,12 +516,16 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:E7 to B7": {
-        "current": 80,
+        "current": 65,
         "goal": 60,
         "history": [
             [
                 1553993257.0450482,
                 80
+            ],
+            [
+                1564063394.2770522,
+                65
             ]
         ]
     },
@@ -546,6 +614,10 @@
             [
                 1553909526.8798661,
                 61
+            ],
+            [
+                1564063182.8187504,
+                61
             ]
         ]
     },
@@ -578,12 +650,16 @@
         ]
     },
     "chords.ini:methods:1min changes:chords:simple changes:Fmaj7(2) to A(m-b)": {
-        "current": 66,
+        "current": 120,
         "goal": 60,
         "history": [
             [
                 1554525479.887787,
                 66
+            ],
+            [
+                1569203276.1264355,
+                120
             ]
         ]
     },
@@ -617,6 +693,10 @@
         "history": [
             [
                 1554525409.3355968,
+                80
+            ],
+            [
+                1568731110.2405126,
                 80
             ]
         ]
@@ -683,6 +763,10 @@
         "history": [
             [
                 1554433031.3607256,
+                80
+            ],
+            [
+                1568644091.5846956,
                 80
             ]
         ]
@@ -1719,6 +1803,10 @@
         "history": [
             [
                 1554433363.9899952,
+                88
+            ],
+            [
+                1568644191.6190958,
                 88
             ]
         ]
@@ -3408,12 +3496,16 @@
         ]
     },
     "chords.ini:methods:strumming:#16:chords:progressions:A - Asus4 - A - Asus2": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553822558.6663992,
                 120
+            ],
+            [
+                1563802634.8786771,
+                135
             ]
         ]
     },
@@ -3493,6 +3585,10 @@
         "history": [
             [
                 1554170444.0570555,
+                120
+            ],
+            [
+                1566401994.0885744,
                 120
             ]
         ]
@@ -3770,6 +3866,14 @@
             [
                 1554258057.9234698,
                 120
+            ],
+            [
+                1568045440.845359,
+                111
+            ],
+            [
+                1569203252.8301013,
+                120
             ]
         ]
     },
@@ -3812,22 +3916,30 @@
         ]
     },
     "chords.ini:methods:strumming:#16:chords:simple changes:E - Esus4": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553994620.5129812,
                 120
+            ],
+            [
+                1564500264.9526181,
+                135
             ]
         ]
     },
     "chords.ini:methods:strumming:#16:chords:simple changes:E to B7": {
-        "current": 120,
+        "current": 140,
         "goal": 120,
         "history": [
             [
                 1554170256.9918292,
                 120
+            ],
+            [
+                1565569122.3606763,
+                140
             ]
         ]
     },
@@ -4070,42 +4182,58 @@
         ]
     },
     "chords.ini:methods:strumming:#16:chords:song parts:Am E7 G D F C Dm E": {
-        "current": 80,
+        "current": 101,
         "goal": 80,
         "history": [
             [
                 1554351786.6437893,
                 80
+            ],
+            [
+                1568166127.7487795,
+                101
             ]
         ]
     },
     "chords.ini:methods:strumming:#16:chords:song parts:F C E7 Am F C Dm E": {
-        "current": 84,
+        "current": 120,
         "goal": 84,
         "history": [
             [
                 1553740171.256135,
                 84
+            ],
+            [
+                1563802461.0428703,
+                120
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:progressions:A - Asus4 - A - Asus2": {
-        "current": 120,
+        "current": 155,
         "goal": 120,
         "history": [
             [
                 1554084440.211445,
                 120
+            ],
+            [
+                1564585273.521248,
+                155
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:progressions:AAAA DDAA EDAE": {
-        "current": 120,
+        "current": 130,
         "goal": 120,
         "history": [
             [
                 1554170968.9709952,
                 120
+            ],
+            [
+                1566402129.7339988,
+                130
             ]
         ]
     },
@@ -4152,22 +4280,30 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:progressions:DDDD GGDD AGDA": {
-        "current": 120,
+        "current": 125,
         "goal": 120,
         "history": [
             [
                 1553735954.905136,
                 120
+            ],
+            [
+                1563464261.9232936,
+                125
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:progressions:EEEE AAEE BAEB": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554351099.274434,
                 120
+            ],
+            [
+                1568045598.6303873,
+                145
             ]
         ]
     },
@@ -4240,22 +4376,30 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:A7(1) to D7": {
-        "current": 120,
+        "current": 130,
         "goal": 120,
         "history": [
             [
                 1553456885.560837,
                 120
+            ],
+            [
+                1562107772.0719056,
+                130
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:A7(1) to E7": {
-        "current": 120,
+        "current": 160,
         "goal": 120,
         "history": [
             [
                 1554169822.2031848,
                 120
+            ],
+            [
+                1565184491.6554768,
+                160
             ]
         ]
     },
@@ -4284,12 +4428,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:Am to Dm": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1554170748.226446,
                 120
+            ],
+            [
+                1566402069.586053,
+                150
             ]
         ]
     },
@@ -4304,12 +4452,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:B7 to A7(1)": {
-        "current": 120,
+        "current": 155,
         "goal": 120,
         "history": [
             [
                 1554084369.252493,
                 120
+            ],
+            [
+                1564585233.9147675,
+                155
             ]
         ]
     },
@@ -4324,32 +4476,44 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:C to A": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1553993342.241003,
                 120
+            ],
+            [
+                1564063449.5926955,
+                150
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:C to Am": {
-        "current": 120,
+        "current": 144,
         "goal": 120,
         "history": [
             [
                 1554352659.7519972,
                 120
+            ],
+            [
+                1568590412.5485947,
+                144
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:C to G": {
-        "current": 120,
+        "current": 160,
         "goal": 120,
         "history": [
             [
                 1554084678.031349,
                 120
+            ],
+            [
+                1565184353.8707373,
+                160
             ]
         ]
     },
@@ -4378,22 +4542,30 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:C7 to Fmaj7(2)": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553823074.6121867,
                 120
+            ],
+            [
+                1563886681.7531059,
+                135
             ]
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:C7 to G7": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1553642927.1759033,
                 120
+            ],
+            [
+                1562628358.0118809,
+                150
             ]
         ]
     },
@@ -4418,12 +4590,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:D to E": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554257886.3356912,
                 120
+            ],
+            [
+                1568045309.4562838,
+                145
             ]
         ]
     },
@@ -4438,12 +4614,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:E - Esus4": {
-        "current": 120,
+        "current": 160,
         "goal": 120,
         "history": [
             [
                 1553822996.9737475,
                 120
+            ],
+            [
+                1563802693.8071284,
+                160
             ]
         ]
     },
@@ -4472,12 +4652,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:E7 to D7": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1554258423.0393622,
                 120
+            ],
+            [
+                1568045501.563506,
+                135
             ]
         ]
     },
@@ -4520,12 +4704,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:F to D": {
-        "current": 120,
+        "current": 160,
         "goal": 120,
         "history": [
             [
                 1554170038.6524677,
                 120
+            ],
+            [
+                1565568882.449686,
+                160
             ]
         ]
     },
@@ -4544,12 +4732,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:F to G": {
-        "current": 120,
+        "current": 125,
         "goal": 120,
         "history": [
             [
                 1553562958.5284743,
                 120
+            ],
+            [
+                1562628176.9075227,
+                125
             ]
         ]
     },
@@ -4574,12 +4766,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:G to A(m-b)": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553823228.260927,
                 120
+            ],
+            [
+                1563886792.8957899,
+                135
             ]
         ]
     },
@@ -4594,12 +4790,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:G to E": {
-        "current": 120,
+        "current": 140,
         "goal": 120,
         "history": [
             [
                 1553562712.2032373,
                 120
+            ],
+            [
+                1562628104.4069097,
+                140
             ]
         ]
     },
@@ -4628,12 +4828,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:simple changes:folk G to C": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554257738.9271584,
                 120
+            ],
+            [
+                1567696259.0720356,
+                145
             ]
         ]
     },
@@ -4652,12 +4856,16 @@
         ]
     },
     "chords.ini:methods:strumming:#1:chords:song parts:Am E7 G D F C Dm E": {
-        "current": 80,
+        "current": 120,
         "goal": 80,
         "history": [
             [
                 1554352118.3887749,
                 80
+            ],
+            [
+                1568166455.7873323,
+                120
             ]
         ]
     },
@@ -4728,22 +4936,30 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:progressions:D - Dsus4 - D - Dsus2": {
-        "current": 120,
+        "current": 152,
         "goal": 120,
         "history": [
             [
                 1553735879.7668705,
                 120
+            ],
+            [
+                1563464172.8363178,
+                152
             ]
         ]
     },
     "chords.ini:methods:strumming:#4:chords:progressions:DDDD GGDD AGDA": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553994291.283372,
                 120
+            ],
+            [
+                1564416644.8597484,
+                145
             ]
         ]
     },
@@ -4896,12 +5112,16 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:simple changes:Am to E": {
-        "current": 120,
+        "current": 180,
         "goal": 120,
         "history": [
             [
                 1554256733.9649518,
                 120
+            ],
+            [
+                1566402298.9504395,
+                180
             ]
         ]
     },
@@ -4958,12 +5178,16 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:simple changes:C to G": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1553643316.692633,
                 120
+            ],
+            [
+                1562628426.1894605,
+                150
             ]
         ]
     },
@@ -5005,6 +5229,14 @@
         "history": [
             [
                 1554256981.212043,
+                120
+            ],
+            [
+                1567696150.9846127,
+                110
+            ],
+            [
+                1569202755.2097244,
                 120
             ]
         ]
@@ -5072,12 +5304,16 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:simple changes:E - Esus4": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1553821880.7398314,
                 120
+            ],
+            [
+                1563802535.69915,
+                150
             ]
         ]
     },
@@ -5120,12 +5356,16 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:simple changes:Em to D": {
-        "current": 120,
+        "current": 155,
         "goal": 120,
         "history": [
             [
                 1553999207.45464,
                 120
+            ],
+            [
+                1564500366.8387122,
+                155
             ]
         ]
     },
@@ -5260,12 +5500,16 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:simple changes:big G to D": {
-        "current": 120,
+        "current": 126,
         "goal": 120,
         "history": [
             [
                 1554433538.421886,
                 120
+            ],
+            [
+                1568644271.5917366,
+                126
             ]
         ]
     },
@@ -5308,12 +5552,16 @@
         ]
     },
     "chords.ini:methods:strumming:#4:chords:song parts:F C E7 Am F C Dm E": {
-        "current": 92,
+        "current": 140,
         "goal": 88,
         "history": [
             [
                 1553643406.9201376,
                 92
+            ],
+            [
+                1563463964.023038,
+                140
             ]
         ]
     },
@@ -5400,12 +5648,16 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:progressions:G to D to C to D": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554351950.2247093,
                 120
+            ],
+            [
+                1568166252.7002225,
+                145
             ]
         ]
     },
@@ -5476,12 +5728,16 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:A7(1) to D7": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553823150.190494,
                 120
+            ],
+            [
+                1563886738.4796631,
+                135
             ]
         ]
     },
@@ -5510,22 +5766,30 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:A7(2) to E7": {
-        "current": 120,
+        "current": 132,
         "goal": 120,
         "history": [
             [
                 1554352793.5929544,
                 120
+            ],
+            [
+                1568590495.0527694,
+                132
             ]
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:Am to Dm": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554257666.9724987,
                 120
+            ],
+            [
+                1567696217.8821507,
+                145
             ]
         ]
     },
@@ -5598,12 +5862,16 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:C to G7": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553994544.5492036,
                 120
+            ],
+            [
+                1564500186.0161493,
+                135
             ]
         ]
     },
@@ -5674,12 +5942,16 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:D to E": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1554256199.30041,
                 120
+            ],
+            [
+                1566402190.648577,
+                150
             ]
         ]
     },
@@ -5694,12 +5966,16 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:E - Esus4": {
-        "current": 120,
+        "current": 999,
         "goal": 120,
         "history": [
             [
                 1554525879.6606154,
                 120
+            ],
+            [
+                1569203287.7581487,
+                999
             ]
         ]
     },
@@ -5846,32 +6122,44 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:G to A(m-b)": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554352183.6180673,
                 120
+            ],
+            [
+                1568166523.9919903,
+                145
             ]
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:G to D": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553740077.6615303,
                 120
+            ],
+            [
+                1563802365.2028954,
+                135
             ]
         ]
     },
     "chords.ini:methods:strumming:#8:chords:simple changes:G to E": {
-        "current": 120,
+        "current": 144,
         "goal": 120,
         "history": [
             [
                 1554352238.5742877,
                 120
+            ],
+            [
+                1568590292.838318,
+                144
             ]
         ]
     },
@@ -5942,22 +6230,30 @@
         ]
     },
     "chords.ini:methods:strumming:#8:chords:song parts:F C E7 Am F C Dm E": {
-        "current": 80,
+        "current": 84,
         "goal": 80,
         "history": [
             [
                 1554432871.1001158,
                 80
+            ],
+            [
+                1568644038.9572406,
+                84
             ]
         ]
     },
     "chords.ini:methods:strumming:#9:chords:progressions:A - Asus4 - A - Asus2": {
-        "current": 120,
+        "current": 155,
         "goal": 120,
         "history": [
             [
                 1554083990.1018836,
                 120
+            ],
+            [
+                1564585139.0913486,
+                155
             ]
         ]
     },
@@ -6008,12 +6304,16 @@
         ]
     },
     "chords.ini:methods:strumming:#9:chords:progressions:D - Dsus4 - D - Dsus2": {
-        "current": 120,
+        "current": 160,
         "goal": 120,
         "history": [
             [
                 1554169893.1107163,
                 120
+            ],
+            [
+                1565568806.934143,
+                160
             ]
         ]
     },
@@ -6106,12 +6406,16 @@
         ]
     },
     "chords.ini:methods:strumming:#9:chords:simple changes:A to Dm": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553993987.6837738,
                 120
+            ],
+            [
+                1564416386.6031,
+                145
             ]
         ]
     },
@@ -6180,6 +6484,14 @@
             [
                 1554257593.672901,
                 120
+            ],
+            [
+                1567696210.1026468,
+                110
+            ],
+            [
+                1569202865.3963509,
+                120
             ]
         ]
     },
@@ -6224,12 +6536,16 @@
         ]
     },
     "chords.ini:methods:strumming:#9:chords:simple changes:C to Am": {
-        "current": 120,
+        "current": 155,
         "goal": 120,
         "history": [
             [
                 1554084210.8136241,
                 120
+            ],
+            [
+                1564585192.4944031,
+                155
             ]
         ]
     },
@@ -6330,12 +6646,16 @@
         ]
     },
     "chords.ini:methods:strumming:#9:chords:simple changes:D7 to C7": {
-        "current": 120,
+        "current": 140,
         "goal": 120,
         "history": [
             [
                 1554170111.2833462,
                 120
+            ],
+            [
+                1565568948.245608,
+                140
             ]
         ]
     },
@@ -6356,6 +6676,10 @@
             [
                 1554170182.1507463,
                 120
+            ],
+            [
+                1565569008.540266,
+                140
             ]
         ]
     },
@@ -6500,12 +6824,16 @@
         ]
     },
     "chords.ini:methods:strumming:#9:chords:simple changes:G to A(m-b)": {
-        "current": 120,
+        "current": 150,
         "goal": 120,
         "history": [
             [
                 1553993842.1697693,
                 120
+            ],
+            [
+                1564063491.5601704,
+                150
             ]
         ]
     },
@@ -6578,32 +6906,44 @@
         ]
     },
     "chords.ini:methods:strumming:#9:chords:song parts:Am E7 G D F C Dm E": {
-        "current": 88,
+        "current": 132,
         "goal": 80,
         "history": [
             [
                 1554525339.5124311,
                 88
+            ],
+            [
+                1568731104.0313506,
+                132
             ]
         ]
     },
     "chords.ini:methods:strumming:#9:chords:song parts:F C E7 Am F C Dm E": {
-        "current": 88,
+        "current": 132,
         "goal": 80,
         "history": [
             [
                 1554525187.4886923,
                 88
+            ],
+            [
+                1568731098.306907,
+                132
             ]
         ]
     },
     "chords.ini:methods:strumming:swing:chords:progressions:A - Asus4 - A - Asus2": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1553994143.4764342,
                 120
+            ],
+            [
+                1564416446.4290617,
+                145
             ]
         ]
     },
@@ -6740,12 +7080,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:A to Dm": {
-        "current": 120,
+        "current": 130,
         "goal": 120,
         "history": [
             [
                 1553456312.827177,
                 120
+            ],
+            [
+                1562107699.4647255,
+                130
             ]
         ]
     },
@@ -6826,12 +7170,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:Am to E": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553994462.2862473,
                 120
+            ],
+            [
+                1564500129.3439493,
+                135
             ]
         ]
     },
@@ -6958,12 +7306,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:D to E": {
-        "current": 120,
+        "current": 135,
         "goal": 120,
         "history": [
             [
                 1553909311.0186796,
                 120
+            ],
+            [
+                1563886939.374333,
+                135
             ]
         ]
     },
@@ -6978,12 +7330,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:E - Esus4": {
-        "current": 120,
+        "current": 145,
         "goal": 120,
         "history": [
             [
                 1554352032.5293026,
                 120
+            ],
+            [
+                1568166361.3219972,
+                145
             ]
         ]
     },
@@ -7022,12 +7378,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:Em to D": {
-        "current": 120,
+        "current": 132,
         "goal": 120,
         "history": [
             [
                 1554352618.54059,
                 120
+            ],
+            [
+                1568590367.4299638,
+                132
             ]
         ]
     },
@@ -7138,12 +7498,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:G to A(m-b)": {
-        "current": 120,
+        "current": 140,
         "goal": 120,
         "history": [
             [
                 1553993915.8383744,
                 120
+            ],
+            [
+                1564416320.5835907,
+                140
             ]
         ]
     },
@@ -7182,12 +7546,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:simple changes:big G to D": {
-        "current": 120,
+        "current": 132,
         "goal": 120,
         "history": [
             [
                 1554433757.1010447,
                 120
+            ],
+            [
+                1568730913.1721978,
+                132
             ]
         ]
     },
@@ -7216,12 +7584,16 @@
         ]
     },
     "chords.ini:methods:strumming:swing:chords:song parts:Am E7 G D F C Dm E": {
-        "current": 80,
+        "current": 132,
         "goal": 80,
         "history": [
             [
                 1554433761.4236622,
                 80
+            ],
+            [
+                1568730991.1103315,
+                132
             ]
         ]
     },
@@ -7232,6 +7604,3714 @@
             [
                 1555286424.0749433,
                 80
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:a": {},
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:b": {},
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:c#": {},
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:g": {},
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:a": {},
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:b": {},
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:c#": {},
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:g": {},
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:a": {},
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:b": {},
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:c#": {},
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:g": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:a": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:b": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:c#": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:g": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:a": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:b": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:c#": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:g": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:a": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:b": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:c#": {},
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:g": {},
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564498851.2410448,
+                60
+            ],
+            [
+                1564584686.234915,
+                100
+            ],
+            [
+                1568861758.1285892,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564498902.235372,
+                60
+            ],
+            [
+                1564584732.2455971,
+                100
+            ],
+            [
+                1568861797.6550283,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564498947.7749517,
+                60
+            ],
+            [
+                1564584784.2529163,
+                105
+            ],
+            [
+                1569202473.9316273,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564498977.777174,
+                60
+            ],
+            [
+                1564584825.885692,
+                110
+            ],
+            [
+                1569202904.6229017,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564499025.5121639,
+                60
+            ],
+            [
+                1564584857.2849753,
+                115
+            ],
+            [
+                1569203268.4159591,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564499055.6527903,
+                80
+            ],
+            [
+                1564584897.312675,
+                115
+            ],
+            [
+                1569203269.0329037,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564499117.4391131,
+                80
+            ],
+            [
+                1564584939.3921998,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564499182.98331,
+                80
+            ],
+            [
+                1564584986.719145,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564499235.2512605,
+                80
+            ],
+            [
+                1564585019.7278595,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564499269.030486,
+                80
+            ],
+            [
+                1564585068.321734,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584166.2697647,
+                75
+            ],
+            [
+                1565184032.5947094,
+                100
+            ],
+            [
+                1568861833.5616279,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a# c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584168.4198437,
+                75
+            ],
+            [
+                1565184063.523094,
+                100
+            ],
+            [
+                1568861867.616562,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584282.7127168,
+                75
+            ],
+            [
+                1565184096.4722397,
+                100
+            ],
+            [
+                1568861895.5502675,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584332.4717066,
+                75
+            ],
+            [
+                1565184116.4428425,
+                100
+            ],
+            [
+                1568861916.0304596,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584370.3956873,
+                75
+            ],
+            [
+                1565184133.3798535,
+                100
+            ],
+            [
+                1568861942.7245724,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584441.007481,
+                80
+            ],
+            [
+                1565184166.9493253,
+                100
+            ],
+            [
+                1568861971.23307,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584495.1897497,
+                85
+            ],
+            [
+                1565568712.1044025,
+                110
+            ],
+            [
+                1569202918.1438558,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584543.9187965,
+                85
+            ],
+            [
+                1565568732.3790395,
+                110
+            ],
+            [
+                1569202930.35139,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584579.7688303,
+                90
+            ],
+            [
+                1565568757.2071755,
+                110
+            ],
+            [
+                1569202942.9952366,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564584622.416838,
+                95
+            ],
+            [
+                1568165906.8469312,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666564.6664371,
+                80
+            ],
+            [
+                1565184219.132554,
+                100
+            ],
+            [
+                1568862032.361097,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666616.9862175,
+                80
+            ],
+            [
+                1565184243.0640085,
+                100
+            ],
+            [
+                1568862507.793451,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666651.7032037,
+                80
+            ],
+            [
+                1565184268.5394406,
+                100
+            ],
+            [
+                1568862518.028507,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666694.2303586,
+                80
+            ],
+            [
+                1565184300.0354774,
+                100
+            ],
+            [
+                1568862533.8848336,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:b g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666739.301982,
+                90
+            ],
+            [
+                1565886320.7730806,
+                100
+            ],
+            [
+                1568862553.0308316,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666793.6641092,
+                95
+            ],
+            [
+                1568165931.361749,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666838.2952127,
+                95
+            ],
+            [
+                1568165955.1165926,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666881.6858761,
+                100
+            ],
+            [
+                1568862579.261673,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564666937.7166147,
+                105
+            ],
+            [
+                1569202499.194352,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667013.5505064,
+                110
+            ],
+            [
+                1569202963.3570085,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667081.6053488,
+                105
+            ],
+            [
+                1569202523.5414262,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667120.7014039,
+                105
+            ],
+            [
+                1569202542.0643332,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667165.6878428,
+                105
+            ],
+            [
+                1569202555.3476112,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667198.8853786,
+                105
+            ],
+            [
+                1569202562.767304,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667241.553969,
+                105
+            ],
+            [
+                1569202579.9439344,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667285.8814993,
+                105
+            ],
+            [
+                1569202591.0594592,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:c# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667319.0440476,
+                105
+            ],
+            [
+                1569202604.4645598,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667358.3717053,
+                105
+            ],
+            [
+                1569202614.3933597,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667398.2732446,
+                105
+            ],
+            [
+                1569202621.7215996,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564667423.7151432,
+                105
+            ],
+            [
+                1569202631.1199374,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183568.2561507,
+                80
+            ],
+            [
+                1565568508.710166,
+                90
+            ],
+            [
+                1565886366.0475814,
+                100
+            ],
+            [
+                1568862612.8297496,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183630.0772703,
+                80
+            ],
+            [
+                1565568532.4701157,
+                90
+            ],
+            [
+                1565886402.9197605,
+                100
+            ],
+            [
+                1568862640.0120482,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183671.4738061,
+                80
+            ],
+            [
+                1565568567.5820553,
+                110
+            ],
+            [
+                1569203104.8485832,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183706.3574362,
+                80
+            ],
+            [
+                1565568594.1152017,
+                110
+            ],
+            [
+                1569203111.094403,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183732.455138,
+                80
+            ],
+            [
+                1565568611.4503102,
+                110
+            ],
+            [
+                1569203117.48042,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183782.033962,
+                80
+            ],
+            [
+                1565568643.4129832,
+                110
+            ],
+            [
+                1569203120.6982317,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:d# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183823.5392182,
+                80
+            ],
+            [
+                1565568680.2165794,
+                110
+            ],
+            [
+                1569203124.5663307,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183874.3532245,
+                90
+            ],
+            [
+                1565886436.8674622,
+                100
+            ],
+            [
+                1568862655.787064,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183916.4339604,
+                90
+            ],
+            [
+                1565886472.1083338,
+                100
+            ],
+            [
+                1568862680.3415234,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183941.2581067,
+                90
+            ],
+            [
+                1565886505.888374,
+                100
+            ],
+            [
+                1569201448.792623,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565183988.9624257,
+                100
+            ],
+            [
+                1569201468.12823,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568152.7122326,
+                80
+            ],
+            [
+                1565886190.4789588,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568177.7875772,
+                80
+            ],
+            [
+                1565886244.7756038,
+                100
+            ],
+            [
+                1569201496.3296194,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:e g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568201.7136242,
+                80
+            ],
+            [
+                1565886257.9916224,
+                100
+            ],
+            [
+                1569201503.2444346,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568252.122098,
+                80
+            ],
+            [
+                1565886292.0214486,
+                100
+            ],
+            [
+                1569201525.0433846,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568290.757051,
+                90
+            ],
+            [
+                1566401804.4166865,
+                100
+            ],
+            [
+                1569201537.046346,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568316.4141455,
+                90
+            ],
+            [
+                1566401824.7497575,
+                100
+            ],
+            [
+                1569201538.5632505,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568360.4241006,
+                90
+            ],
+            [
+                1566401857.8574014,
+                100
+            ],
+            [
+                1569201553.4614687,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568395.391858,
+                90
+            ],
+            [
+                1567695913.6680374,
+                110
+            ],
+            [
+                1569203129.3703053,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568421.9497654,
+                90
+            ],
+            [
+                1567695946.2978399,
+                110
+            ],
+            [
+                1569203130.9838157,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:f# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565568454.729884,
+                90
+            ],
+            [
+                1567695972.5691855,
+                110
+            ],
+            [
+                1569203135.0201976,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:g a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565885807.2709246,
+                80
+            ],
+            [
+                1566401533.5091214,
+                90
+            ],
+            [
+                1567696002.3002272,
+                110
+            ],
+            [
+                1569203150.184371,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:g c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565885869.3281338,
+                80
+            ],
+            [
+                1566401578.3761892,
+                90
+            ],
+            [
+                1567696034.853579,
+                110
+            ],
+            [
+                1569203161.5774708,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:g d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565885894.7188501,
+                8
+            ],
+            [
+                1566401466.1818664,
+                90
+            ],
+            [
+                1567696067.0023417,
+                110
+            ],
+            [
+                1569203221.020151,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:g f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565885977.161781,
+                89
+            ],
+            [
+                1566401772.4479926,
+                100
+            ],
+            [
+                1569201620.6881418,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:g g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565886025.8861163,
+                80
+            ],
+            [
+                1566401618.7966523,
+                90
+            ],
+            [
+                1568044898.9940686,
+                111
+            ],
+            [
+                1569203253.8948684,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562107216.05647,
+                88
+            ],
+            [
+                1562627690.3018324,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562107293.2603362,
+                88
+            ],
+            [
+                1562627762.0736659,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562107364.5791345,
+                88
+            ],
+            [
+                1562627831.0010498,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562107435.4764035,
+                88
+            ],
+            [
+                1562627905.571639,
+                119
+            ],
+            [
+                1563463766.3433878,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562107530.0853236,
+                88
+            ],
+            [
+                1562627991.7456596,
+                119
+            ],
+            [
+                1563463848.7977693,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562627295.9459476,
+                80
+            ],
+            [
+                1563463295.8995044,
+                116
+            ],
+            [
+                1563802018.6268458,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562627374.605318,
+                80
+            ],
+            [
+                1563463381.2548895,
+                116
+            ],
+            [
+                1563802075.5867758,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562627448.0408347,
+                80
+            ],
+            [
+                1563463456.59294,
+                118
+            ],
+            [
+                1563802200.9862678,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562627526.3471422,
+                89
+            ],
+            [
+                1563463527.7945895,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1562627609.7773743,
+                95
+            ],
+            [
+                1563463663.032849,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563462812.5010414,
+                80
+            ],
+            [
+                1563801560.6303656,
+                113
+            ],
+            [
+                1563886535.413235,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a# c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563462893.1286247,
+                104
+            ],
+            [
+                1563801616.770681,
+                113
+            ],
+            [
+                1563886575.1620371,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563463000.238165,
+                104
+            ],
+            [
+                1563801668.541779,
+                113
+            ],
+            [
+                1563886606.001201,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563463076.8084407,
+                116
+            ],
+            [
+                1563802124.9049857,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:a# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563463221.3179553,
+                116
+            ],
+            [
+                1563802171.046994,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563801339.4032717,
+                95
+            ],
+            [
+                1563886149.4412527,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563801399.181912,
+                95
+            ],
+            [
+                1563886177.4306834,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563801441.961109,
+                95
+            ],
+            [
+                1563886199.9722679,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563801473.6161633,
+                95
+            ],
+            [
+                1563886238.4268126,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563801480.025567,
+                95
+            ],
+            [
+                1563886478.1346538,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563885912.7653868,
+                90
+            ],
+            [
+                1564062967.5541968,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563885968.4570935,
+                90
+            ],
+            [
+                1564063004.2635472,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563886008.380836,
+                90
+            ],
+            [
+                1564063046.5072682,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563886060.0038323,
+                90
+            ],
+            [
+                1564063060.3959846,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:b g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563886086.5879424,
+                90
+            ],
+            [
+                1564063074.6237874,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1563983760.3345172,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062603.5806422,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062652.570109,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062697.3173199,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062754.67171,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062810.0730925,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062841.7675521,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062867.156334,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062894.2736948,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564062915.1634665,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146109.3335602,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:c# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146170.6053503,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146236.4097326,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146253.475606,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146265.0097747,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146306.7380211,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146336.510272,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146380.7156825,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146403.03531,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146438.4212394,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146486.7119036,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:d# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146508.801679,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146556.5247242,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146589.2632833,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146615.7462547,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146640.4053679,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146661.336923,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146690.7249126,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:e g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146716.794039,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146734.1883469,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146753.4349575,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146769.705631,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146777.5347064,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146786.495553,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146795.109006,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:f# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146803.6037006,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:g a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146812.7042222,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:g c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146830.233366,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:g d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146851.4006717,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:g f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146867.0089197,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th string:methods:strumming:#1:combinations:g g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564146883.7854078,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565886064.5571764,
+                80
+            ],
+            [
+                1566401666.3793862,
+                90
+            ],
+            [
+                1568044958.3870218,
+                111
+            ],
+            [
+                1569203254.6180778,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565886091.4930217,
+                80
+            ],
+            [
+                1566401715.9453788,
+                90
+            ],
+            [
+                1568045045.7613363,
+                111
+            ],
+            [
+                1569203255.3399496,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565886136.410303,
+                95
+            ],
+            [
+                1568165996.6020927,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565886160.159335,
+                95
+            ],
+            [
+                1568590051.9275537,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1565886189.4183652,
+                95
+            ],
+            [
+                1568590113.5539112,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401010.4843833,
+                80
+            ],
+            [
+                1567695749.192334,
+                110
+            ],
+            [
+                1569203224.1899428,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401056.3232028,
+                80
+            ],
+            [
+                1567695782.1688406,
+                110
+            ],
+            [
+                1569203229.9070113,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401105.1561244,
+                80
+            ],
+            [
+                1567695810.4127815,
+                110
+            ],
+            [
+                1569203233.1508257,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401138.954011,
+                80
+            ],
+            [
+                1567695837.5255928,
+                110
+            ],
+            [
+                1569203234.3670175,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401187.5102267,
+                90
+            ],
+            [
+                1568045108.3132715,
+                111
+            ],
+            [
+                1569203256.0650887,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401220.129565,
+                90
+            ],
+            [
+                1568045152.3826253,
+                111
+            ],
+            [
+                1569203256.7345304,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a# c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401277.4521787,
+                90
+            ],
+            [
+                1568045216.24064,
+                111
+            ],
+            [
+                1569203258.0317926,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401346.6738846,
+                90
+            ],
+            [
+                1568165761.336708,
+                115
+            ],
+            [
+                1569203269.693912,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401397.8513982,
+                90
+            ],
+            [
+                1568165783.62259,
+                115
+            ],
+            [
+                1569203270.297771,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:a# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1566401428.116634,
+                90
+            ],
+            [
+                1568165803.0819116,
+                115
+            ],
+            [
+                1569203270.9266784,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695464.1669374,
+                75
+            ],
+            [
+                1568044754.1231284,
+                99
+            ],
+            [
+                1568730594.4447978,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695508.1972616,
+                75
+            ],
+            [
+                1568044776.455334,
+                99
+            ],
+            [
+                1568730632.2342849,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695533.9605696,
+                85
+            ],
+            [
+                1568044812.0200164,
+                99
+            ],
+            [
+                1568730645.7655146,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695562.8509939,
+                85
+            ],
+            [
+                1568044846.6856449,
+                99
+            ],
+            [
+                1568730663.2520585,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695587.3841918,
+                95
+            ],
+            [
+                1568590160.3976233,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695609.7306519,
+                95
+            ],
+            [
+                1568590198.7668207,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695631.17682,
+                95
+            ],
+            [
+                1568590229.4604788,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695650.4699297,
+                100
+            ],
+            [
+                1569201638.420343,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695684.6129313,
+                100
+            ],
+            [
+                1569201876.9869924,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:b g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1567695710.562861,
+                100
+            ],
+            [
+                1569201896.7696505,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044398.7788823,
+                90
+            ],
+            [
+                1568165833.8011913,
+                115
+            ],
+            [
+                1569203271.514128,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044431.5005221,
+                90
+            ],
+            [
+                1568165857.5144274,
+                115
+            ],
+            [
+                1569203272.0662785,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044477.5996556,
+                99
+            ],
+            [
+                1568730677.8625917,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044502.7826495,
+                90
+            ],
+            [
+                1568165883.381659,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044534.6681697,
+                99
+            ],
+            [
+                1568730733.2829423,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044567.0484385,
+                99
+            ],
+            [
+                1568730759.1789749,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044587.9938798,
+                99
+            ],
+            [
+                1568730779.0790632,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044611.8909957,
+                99
+            ],
+            [
+                1568730796.2977588,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044636.160984,
+                99
+            ],
+            [
+                1568730817.2537413,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568044709.9454656,
+                99
+            ],
+            [
+                1568861722.3300214,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165412.517374,
+                95
+            ],
+            [
+                1568590231.3354924,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:c# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165446.1825624,
+                95
+            ],
+            [
+                1568643667.5368874,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165495.7579167,
+                95
+            ],
+            [
+                1568643706.8967752,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165527.0817645,
+                95
+            ],
+            [
+                1568643739.5063982,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165555.4355135,
+                95
+            ],
+            [
+                1568643758.1038673,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165591.86142,
+                95
+            ],
+            [
+                1568643787.6307275,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165632.9206293,
+                95
+            ],
+            [
+                1568643823.5453181,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165667.8803031,
+                95
+            ],
+            [
+                1568643839.6925857,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165703.9806798,
+                105
+            ],
+            [
+                1569202642.2063575,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568165731.6539178,
+                105
+            ],
+            [
+                1569202657.5996828,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568588694.5730727,
+                88
+            ],
+            [
+                1568589884.4327168,
+                112
+            ],
+            [
+                1569203258.7231963,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:d# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568588740.038037,
+                88
+            ],
+            [
+                1568589965.6159415,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568588790.827513,
+                93
+            ],
+            [
+                1568590018.7435434,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568588985.0151613,
+                92
+            ],
+            [
+                1568589996.3511763,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589040.8756688,
+                96
+            ],
+            [
+                1568643865.172965,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589110.2674856,
+                96
+            ],
+            [
+                1568643891.08071,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589161.7662868,
+                96
+            ],
+            [
+                1568643913.5227933,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589210.1150286,
+                100
+            ],
+            [
+                1569201924.7475562,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:e g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589249.0337367,
+                104
+            ],
+            [
+                1569202334.1598372,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589354.7225287,
+                104
+            ],
+            [
+                1569202361.6640441,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589401.29578,
+                104
+            ],
+            [
+                1569202390.8897831,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589553.039469,
+                104
+            ],
+            [
+                1569202404.1705163,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589592.9388876,
+                104
+            ],
+            [
+                1569202427.3693182,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589633.7471204,
+                104
+            ],
+            [
+                1569202439.9027252,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589661.7197907,
+                104
+            ],
+            [
+                1569202453.6295605,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:f# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589714.2976668,
+                108
+            ],
+            [
+                1569202670.9137952,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:g a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589756.7931883,
+                112
+            ],
+            [
+                1569203259.2617438,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:g c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589801.33114,
+                112
+            ],
+            [
+                1569203259.8161967,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:g d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568589832.411924,
+                112
+            ],
+            [
+                1569203266.6331425,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:g f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643106.0027223,
+                100
+            ],
+            [
+                1569201951.8053544,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:6th to 5h:methods:strumming:#1:combinations:g g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643189.3753812,
+                100
+            ],
+            [
+                1569201973.481466,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564414987.6936977,
+                89
+            ],
+            [
+                1564499959.2023814,
+                100
+            ],
+            [
+                1569201992.9548664,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564415837.397865,
+                76
+            ],
+            [
+                1564499399.2864459,
+                100
+            ],
+            [
+                1569202012.4977093,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564415887.2650337,
+                76
+            ],
+            [
+                1564499479.7190444,
+                100
+            ],
+            [
+                1569202046.9085135,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564415926.982418,
+                76
+            ],
+            [
+                1564499569.379481,
+                100
+            ],
+            [
+                1569202077.0422413,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564415975.1445262,
+                76
+            ],
+            [
+                1564499607.8099208,
+                100
+            ],
+            [
+                1569202116.468883,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564416049.4445808,
+                76
+            ],
+            [
+                1564499659.4583688,
+                100
+            ],
+            [
+                1569202153.1783907,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564416104.797482,
+                76
+            ],
+            [
+                1564499700.4280453,
+                100
+            ],
+            [
+                1569202177.3604004,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564416158.6876736,
+                76
+            ],
+            [
+                1564499789.4773226,
+                100
+            ],
+            [
+                1569202210.6001701,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564416205.6362617,
+                76
+            ],
+            [
+                1564499844.7022471,
+                100
+            ],
+            [
+                1569202242.1151438,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1564416259.7097704,
+                76
+            ],
+            [
+                1564499901.0321386,
+                100
+            ],
+            [
+                1569202261.8628745,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643300.4424956,
+                100
+            ],
+            [
+                1569202300.2643116,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a# c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643388.9717903,
+                108
+            ],
+            [
+                1569202690.7618482,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643453.511869,
+                112
+            ],
+            [
+                1569203267.2308745,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643505.0422518,
+                112
+            ],
+            [
+                1569203267.8438952,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:a# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643548.3482938,
+                116
+            ],
+            [
+                1569203275.614866,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643586.2639353,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b c": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643611.8890102,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568643629.6865754,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730308.258807,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730354.890231,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730379.964053,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730419.3374918,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730445.3462179,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730470.0687392,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:b g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730501.5551333,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730534.560603,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730563.3434467,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c d": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568730593.6750145,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861402.95426,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861442.96062,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861477.5929804,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861504.380165,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861533.757004,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861558.0010579,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c# d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861604.9653122,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861627.809024,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:c# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861657.6558733,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568861677.8766894,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862141.6350276,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862153.7184107,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d e": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862192.84395,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862214.9363492,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862229.4228954,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862351.3861673,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862385.357752,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d# f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862401.630639,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:d# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862418.3456874,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862447.5623078,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862470.4100084,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1568862481.9641154,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e f": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201248.3420117,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201272.5062423,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201297.6416209,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:e g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201313.3842824,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201336.3869655,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201358.4011204,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201372.3304331,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201381.5823128,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201393.3651545,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201414.978239,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:f# g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201729.425354,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:g a#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201771.673915,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:g c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201798.6171691,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:g d#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201807.7776668,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:g f#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201816.281743,
+                120
+            ]
+        ]
+    },
+    "power_chords.ini:string:string 5:methods:strumming:#1:combinations:g g#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569201827.3006132,
+                120
             ]
         ]
     }
