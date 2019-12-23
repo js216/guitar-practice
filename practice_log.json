@@ -7607,30 +7607,366 @@
             ]
         ]
     },
-    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:a": {},
-    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:b": {},
-    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:c#": {},
-    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:g": {},
-    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:a": {},
-    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:b": {},
-    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:c#": {},
-    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:g": {},
-    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:a": {},
-    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:b": {},
-    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:c#": {},
-    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:g": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:a": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:b": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:c#": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:g": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:a": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:b": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:c#": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:g": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:a": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:b": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:c#": {},
-    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:g": {},
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:a": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459325.7654755,
+                92
+            ],
+            [
+                1569792453.037548,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459384.9507866,
+                100
+            ],
+            [
+                1569792553.7973707,
+                116
+            ],
+            [
+                1569793853.7763114,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459452.2573204,
+                112
+            ],
+            [
+                1569793081.9434206,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all down:root_note:g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459558.2930472,
+                116
+            ],
+            [
+                1569793887.357953,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:a": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459647.124169,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459698.4144194,
+                112
+            ],
+            [
+                1569793319.9074433,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569459853.7188306,
+                100
+            ],
+            [
+                1569792598.109646,
+                116
+            ],
+            [
+                1569793925.6051133,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:all up:root_note:g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569461403.7240608,
+                100
+            ],
+            [
+                1569792629.848165,
+                116
+            ],
+            [
+                1569793946.4530683,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:a": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501484.164658,
+                100
+            ],
+            [
+                1569792685.7463276,
+                116
+            ],
+            [
+                1569794009.8335717,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501525.9437528,
+                112
+            ],
+            [
+                1569793374.22085,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501573.4734402,
+                116
+            ],
+            [
+                1569794051.4308543,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:fingers:direction:alternate:root_note:g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501607.9828234,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:a": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501737.9531837,
+                100
+            ],
+            [
+                1569792759.677629,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501782.9931052,
+                104
+            ],
+            [
+                1569792814.4596689,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501849.654476,
+                108
+            ],
+            [
+                1569792874.0674636,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all down:root_note:g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501887.001322,
+                112
+            ],
+            [
+                1569793444.073168,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:a": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501944.0084155,
+                112
+            ],
+            [
+                1569793542.38607,
+                116
+            ],
+            [
+                1569794207.5159137,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569501973.6626863,
+                112
+            ],
+            [
+                1569793582.7772408,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569502013.6276,
+                112
+            ],
+            [
+                1569793643.6837687,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:all up:root_note:g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569502037.3799174,
+                112
+            ],
+            [
+                1569793724.4537566,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:a": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569502109.9771197,
+                108
+            ],
+            [
+                1569793005.3792493,
+                112
+            ],
+            [
+                1569793768.5642495,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:b": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569792269.5394883,
+                72
+            ],
+            [
+                1569793175.1211903,
+                112
+            ],
+            [
+                1569793820.264163,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:c#": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569792389.2373958,
+                72
+            ],
+            [
+                1569793228.0161393,
+                116
+            ],
+            [
+                1569794241.8601303,
+                120
+            ]
+        ]
+    },
+    "minor_pentatonic.ini:using:guitar pick:direction:alternate:root_note:g": {
+        "current": 120,
+        "goal": 120,
+        "history": [
+            [
+                1569792451.4539402,
+                72
+            ],
+            [
+                1569793275.2708879,
+                120
+            ]
+        ]
+    },
     "power_chords.ini:string:5th to 6h:methods:strumming:#1:combinations:a a#": {
         "current": 120,
         "goal": 120,
